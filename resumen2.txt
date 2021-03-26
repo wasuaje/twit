@@ -1,0 +1,28 @@
+				Gerencia de Infraestructura de Sistemas
+					Resumen de la plataforma
+				=======================================
+
+Server		 / 	ERR	WRN	PNC	SEC	OLDR	BIGRT	OLDMA	BIGM	OLDC	BIGC	
+====================================================================================================
+
+B-desa01	WARN	OK	OK	OK	OK	WARN	WARN	N/A	N/A	N/A	N/A
+B-desa02	OK	OK	OK	OK	OK	WARN	OK	N/A	N/A	N/A	N/A
+B-prloca	OK	WARN	OK	OK	OK	WARN	WARN	CRIT.	OK	N/A	WARN
+B-unive3	OK	OK	OK	OK	OK	WARN	OK	N/A	N/A	N/A	N/A
+B-wtes02	OK	OK	OK	OK	OK	WARN	OK	OK	OK	N/A	N/A
+
+====================================================================================================
+
+Comandos Utilizados:
+secure		tail -300  /var/log/secure | grep failure | wc -l
+warn		cat /var/log/messages | grep warning | tail | wc -l
+bigcrons		find /home/crons -type f  -maxdepth 2 -size +50M | wc -l
+raiz		df -ah | egrep \/$ | awk '{print $(NF-1)}' | sed 's/%//g' | head -1
+oldroot		find /root -type f -maxdepth 2 -mtime +360 | grep -v '/\.' |wc -l
+oldcrons		find /home/crons -type f  -maxdepth 2-mtime +360 | grep -v '/\.' |wc -l
+panic		cat /var/log/messages | grep panic | tail | wc -l
+bigmand		find /home/manduca -type f -maxdepth 2 -size +50M | wc -l
+error		cat /var/log/messages | grep error | tail | wc -l
+bigroot		find /root -type f -maxdepth 2 -size +50M | wc -l
+oldmand		find /home/manduca -type f -maxdepth 2 -mtime +360 | grep -v '/\.' |wc -l
+

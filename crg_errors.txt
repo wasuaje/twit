@@ -1,0 +1,3 @@
+Hora de inicio: 2012-10-08 16:30:01.305509
+Total twits: 0 - T/minuto: 0
+Hora de Fin: 2012-10-08 16:30:01.598173

@@ -1,0 +1,4342 @@
+Data     : 
+
+
+Decl     : DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"
+Data     : 
+
+
+Start tag: html
+     attr: ('lang', 'es')
+Data     : 
+
+Start tag: head
+Data     :   
+
+Start tag: meta
+     attr: ('http-equiv', 'Content-Type')
+     attr: ('content', 'text/html; charset=iso-8859-1')
+Data     : 
+
+Start tag: script
+     attr: ('type', 'text/javascript')
+     attr: ('src', 'http://static.eluniversal.com/js/eu4/agregarScriptCss.js?d=0.1283319241044224')
+End tag  : script
+Data     : 
+
+
+Start tag: meta
+     attr: ('http-equiv', 'refresh')
+     attr: ('content', '1800')
+Data     : 
+
+
+Start tag: meta
+     attr: ('name', 'description')
+     attr: ('content', 'Las actividades realizadas en la campa\xf1a, en la que participan m\xe1s de 20 artistas -embajadores de la paz- y numerosas organizaciones, contra la violencia fueron recopiladas en un material audiovisual. ')
+Data     : 
+
+Start tag: meta
+     attr: ('name', 'keywords')
+     attr: ('content', 'INICIATIVA CIUDADANA')
+End tag  : meta
+Data     : 
+
+Start tag: title
+Data     : "No te engoriles" recopiló su trabajo en un video  - Caracas - EL UNIVERSAL
+End tag  : title
+Data     : 
+
+Start tag: script
+     attr: ('type', 'text/javascript')
+Data     : 
+LISTA_JS_CSS.addCss("http://static.eluniversal.com/css/eu4/",["eu"]);
+LISTA_JS_CSS.addCss("http://static.eluniversal.com/css/eu4/",["macro-modulo"]);
+
+End tag  : script
+Data     : 
+
+Comment  :  link href="http://static.eluniversal.com/css/eu4/eu.css" rel="stylesheet" type="text/css" 
+Data     : 
+
+
+Start tag: script
+     attr: ('type', 'text/javascript')
+Data     : 
+LISTA_JS_CSS.addCss("http://static.eluniversal.com/css/eu4/",["nota"]);
+
+End tag  : script
+Data     : 
+
+Comment  :  link href="http://static.eluniversal.com/css/eu4/nota.css" rel="stylesheet" type="text/css" / 
+Data     : 
+
+
+Start tag: link
+     attr: ('rel', 'image_src')
+     attr: ('href', 'http://static.eluniversal.com/images/eu_100.jpg')
+End tag  : link
+Data     : 
+
+Comment  : [if lte IE 6]>
+<script type="text/javascript">
+LISTA_JS_CSS.addCss("http://static.eluniversal.com/css/eu4/",["ie"]);
+</script>
+<![endif]
+Data     : 
+
+Start tag: script
+     attr: ('type', 'text/javascript')
+Data     : var codE_Planning='';
+End tag  : script
+Data     :  
+
+
+Comment  :  NOTA: Este script debe ser eliminado al finalizar las olimpiadas 
+Data     : 
+
+
+Comment  :  NOTA: Este script debe ser eliminado al finalizar las olimpiadas 
+Data     : 
+
+
+
+End tag  : head
+Data     : 
+
+Start tag: body
+Data     : 
+
+Comment  : INICIO DIVs QUE ENCIERRAN TODA LA PAGINA
+Data     : 
+
+
+Start tag: div
+     attr: ('style', 'margin:auto; //position:relative; //z-index:7999!important')
+     attr: ('class', 'W990 Outer')
+     attr: ('id', 'containerProm')
+Data     : 
+
+Start tag: div
+     attr: ('class', 'InnerLeft')
+     attr: ('id', 'contentBody')
+Data     : 
+
+Start tag: div
+     attr: ('style', 'position:absolute; z-index:10;')
+     attr: ('class', 'backFFF')
+Data     : 
+
+Comment  : INICIO CONTENIDO HTML PAGINA
+Data     : 
+	
+Start tag: div
+     attr: ('id', 'cont_top_gl')
+Data     : 
+		
+Start tag: div
+     attr: ('id', 'bannersTop')
+     attr: ('class', 'bannersTop overflowH H105')
+Data     : 
+		
+Start tag: div
+     attr: ('class', 'esp_publicidad')
+Data     : ESPACIO PUBLICITARIO
+End tag  : div
+Data     : 
+		
+Start tag: div
+     attr: ('class', 'floatR superbanner')
+     attr: ('style', 'display:none;')
+     attr: ('id', 'divCloseBanner')
+Data     : 
+				
+Start tag: a
+     attr: ('id', 'closeBanner')
+     attr: ('href', 'javascript://')
+     attr: ('style', 'text-align:right')
+Start tag: img
+     attr: ('alt', 'expandir')
+     attr: ('src', 'http://images.eluniversal.com/images/bullets/expandir.gif')
+     attr: ('border', '0')
+End tag  : a
+Data     : 		
+		
+End tag  : div
+Data     : 
+		
+Start tag: div
+     attr: ('class', 'publicidad')
+     attr: ('id', 'bannerPublHeader')
+Data     : 
+		
+End tag  : div
+Data     : 
+		
+Start tag: div
+     attr: ('class', 'publicidad floatR PR5')
+     attr: ('id', 'divBotoncab')
+Data     : 
+		
+End tag  : div
+Data     : 
+		
+End tag  : div
+Data     : 
+    	
+Start tag: div
+     attr: ('style', '//background:#fff; //position:relative;//z-index:7999!important')
+Data     : 
+	    	
+Start tag: div
+     attr: ('class', 'pod_logo_gl')
+Data     : 
+	            
+Start tag: div
+     attr: ('class', 'fullBannerAfected Header')
+Data     : 
+					
+	
+Start tag: div
+     attr: ('class', 'H75')
+     attr: ('style', 'background:url(http://static.eluniversal.com/images/eu4/back/logo-eluniversal.gif) no-repeat center;')
+Data     : 
+		
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com')
+     attr: ('id', 'id_logo')
+Start tag: img
+     attr: ('alt', 'link-logo')
+     attr: ('src', 'http://static.eluniversal.com/images/eu4/icons/link-logo.gif')
+     attr: ('border', '0')
+     attr: ('title', 'EL UNIVERSAL')
+     attr: ('class', 'linklogo')
+End tag  : a
+Data     : 
+    	
+Start tag: div
+     attr: ('class', 'topLnks')
+Data     : 
+        	
+Start tag: div
+     attr: ('class', 'link')
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/registro/do/showHome')
+Start tag: span
+     attr: ('class', 'bold')
+Data     : MI CUENTA
+End tag  : span
+End tag  : a
+Data     : |
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/registro/do/showHome')
+Data     : REGÍSTRATE
+End tag  : a
+End tag  : div
+Data     : 
+        	
+Start tag: div
+     attr: ('class', 'link')
+Start tag: a
+     attr: ('href', 'http://suscripciones.eluniversal.com/')
+     attr: ('class', 'colorC90')
+Start tag: span
+     attr: ('class', 'bold')
+Data     : SUSCRIPCION EDICION IMPRESA
+End tag  : span
+End tag  : a
+End tag  : div
+Data     : 
+        	
+Start tag: div
+     attr: ('class', 'link')
+Start tag: a
+     attr: ('href', 'http://anunciantes.eluniversal.com')
+Data     : ANUNCIANTES
+End tag  : a
+End tag  : div
+Data     : 
+     	
+End tag  : div
+Data     : 
+     	
+Start tag: div
+     attr: ('class', 'txt4 color666 W400 MT58 floatL')
+Data     : 
+			
+			
+Start tag: span
+     attr: ('class', 'bold')
+Data     : CARACAS,
+End tag  : span
+Data     :  viernes 24 de agosto, 2012 | Actualizado hace 
+Start tag: span
+     attr: ('class', 'colorC90')
+Start tag: span
+     attr: ('class', 'bold')
+Data     : 
+
+Start tag: script
+     attr: ('type', 'text/javascript')
+Data     : 
+	var publishDay = 24;
+	var publishMount = 7;
+	var publishYear = 2012;
+	var publishHour = 12;
+	var publishMinute = 5;	
+
+End tag  : script
+Data     : 
+
+Start tag: span
+     attr: ('id', 'fecUltAct')
+End tag  : span
+End tag  : span
+End tag  : span
+Data     : 
+
+			     		
+     	
+End tag  : div
+Data     : 
+        	
+Start tag: form
+     attr: ('action', 'http://www.eluniversal.com/resultado.shtml')
+     attr: ('id', 'cse-search-box')
+Data     : 
+        	
+Start tag: div
+     attr: ('class', 'W250E2 floatR MT20 MR10')
+Data     : 
+            	
+Start tag: input
+     attr: ('type', 'hidden')
+     attr: ('name', 'cx')
+     attr: ('value', '000299334537543304768:ajd-bshwhpo')
+End tag  : input
+Data     : 
+               	
+Start tag: input
+     attr: ('type', 'hidden')
+     attr: ('name', 'cof')
+     attr: ('value', 'FORID:9')
+End tag  : input
+Data     : 
+               	
+Start tag: input
+     attr: ('type', 'hidden')
+     attr: ('name', 'ie')
+     attr: ('value', 'ISO-8859-15')
+End tag  : input
+Data     : 
+               	
+Start tag: div
+     attr: ('class', 'floatL sprite1')
+Start tag: span
+     attr: ('class', 'sprite1-btn-buscarSF floatL')
+End tag  : span
+End tag  : div
+Data     : 
+               	
+Start tag: input
+     attr: ('id', 'queryString')
+     attr: ('value', 'Buscar')
+     attr: ('type', 'text')
+     attr: ('onblur', "if (this.value==''){this.value='Buscar';}")
+     attr: ('onclick', "if (this.value=='Buscar'){this.value='';}")
+     attr: ('name', 'q')
+     attr: ('class', 'M0 P0 floatL VAM')
+     attr: ('size', '20')
+End tag  : input
+Data     : 
+               	
+Start tag: input
+     attr: ('id', 'imageField')
+     attr: ('type', 'image')
+     attr: ('src', 'http://static.eluniversal.com/images/eu3/icons-btns/btn-buscar.gif')
+     attr: ('name', 'sa')
+     attr: ('value', '')
+     attr: ('class', 'floatL ML10 M0 P0 W55 H20 VAM')
+End tag  : input
+Data     : 
+            
+End tag  : div
+Data     : 
+        	
+End tag  : form
+Data     : 
+  	
+End tag  : div
+Data     : 
+
+				
+End tag  : div
+Data     : 
+	        
+End tag  : div
+Data     : 
+	        
+Start tag: div
+     attr: ('class', 'pod_menu_gl')
+Data     : 
+	        	
+	
+	
+	
+
+
+
+
+Start tag: div
+     attr: ('class', 'NavBar Clearfix')
+     attr: ('style', 'background: url(http://static.eluniversal.com/images/eu3/layout/bgnav.gif) repeat-x #fff;')
+Data     : 
+	
+Start tag: div
+     attr: ('class', 'W960')
+Data     : 
+		
+Start tag: div
+     attr: ('nowrap', 'nowrap')
+     attr: ('class', 'PL50 overflowH')
+Data     : 
+			
+Start tag: ul
+     attr: ('class', 'Nav')
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com')
+     attr: ('class', 'Selected')
+Start tag: span
+Data     : Secciones
+End tag  : span
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/english/')
+     attr: ('class', '')
+Start tag: span
+Data     : Daily News
+End tag  : span
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/edicion-impresa/')
+     attr: ('class', '')
+Start tag: span
+Data     : Edición Impresa
+End tag  : span
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/servicios/')
+     attr: ('class', '')
+Start tag: span
+Data     : Servicios
+End tag  : span
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/multimedia/')
+     attr: ('class', '')
+Start tag: span
+Data     : Multimedia
+End tag  : span
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', u'http://clasificados.eluniversal.com?utm_source=eluniversal.com&utm_medium=Menu&utm_campaign=Menu')
+     attr: ('class', '')
+Start tag: span
+Data     : Clasificados
+End tag  : span
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.estampas.com')
+     attr: ('class', '')
+Start tag: span
+Data     : Estampas
+End tag  : span
+End tag  : a
+End tag  : li
+Data     : 
+			
+End tag  : ul
+Data     : 
+	    
+End tag  : div
+Data     : 
+	
+End tag  : div
+Data     : 	
+	
+Start tag: div
+     attr: ('id', 'menu')
+Data     : 
+		
+Start tag: ul
+Data     : 
+
+
+
+Start tag: li
+     attr: ('class', 'nivel2')
+Start tag: a
+     attr: ('class', 'nivel2 ')
+     attr: ('href', 'http://www.eluniversal.com/nacional-y-politica/')
+Data     : Nacional y Política
+End tag  : a
+Data     : 			
+			
+Comment  : [if lte IE 6]><a class="" href="http://www.eluniversal.com/nacional-y-politica/">Nacional y Política<table class="falsa"><tr><td><![endif]
+Data     : 
+			
+Comment  : [if lte IE 6]></td></tr></table></a><![endif]
+Data     : 
+			
+End tag  : li
+Start tag: li
+     attr: ('class', 'nivel2')
+Start tag: a
+     attr: ('class', 'nivel2 ')
+     attr: ('href', 'http://www.eluniversal.com/sucesos/')
+Data     : Sucesos
+End tag  : a
+Data     : 			
+			
+Comment  : [if lte IE 6]><a class="" href="http://www.eluniversal.com/sucesos/">Sucesos<table class="falsa"><tr><td><![endif]
+Data     : 
+			
+Comment  : [if lte IE 6]></td></tr></table></a><![endif]
+Data     : 
+			
+End tag  : li
+Start tag: li
+     attr: ('class', 'nivel1')
+Start tag: a
+     attr: ('class', 'nivel1 ')
+     attr: ('href', 'http://www.eluniversal.com/opinion/')
+Data     : Opinión
+End tag  : a
+Data     : 			
+			
+Comment  : [if lte IE 6]><a class="" href="http://www.eluniversal.com/opinion/">Opinión<table class="falsa"><tr><td><![endif]
+Data     : 
+			
+Start tag: ul
+     attr: ('id', 'SubLayer1')
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/opinion/rayma/')
+Data     : Rayma
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/opinion/rayma/#Interactiva')
+Data     : Rayma interactiva
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/opinion/nuestras-firmas/')
+Data     : Nuestras firmas
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/opinion/cartas-al-editor/')
+Data     : Cartas al editor
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/opinion/correo-del-pueblo/')
+Data     : Correo del pueblo
+End tag  : a
+End tag  : li
+Data     : 
+			
+End tag  : ul
+Data     : 
+			
+Comment  : [if lte IE 6]></td></tr></table></a><![endif]
+Data     : 
+			
+End tag  : li
+Start tag: li
+     attr: ('class', 'nivel1')
+Start tag: a
+     attr: ('class', 'nivel1 ')
+     attr: ('href', 'http://www.eluniversal.com/economia/')
+Data     : Economía
+End tag  : a
+Data     : 			
+			
+Comment  : [if lte IE 6]><a class="" href="http://www.eluniversal.com/economia/">Economía<table class="falsa"><tr><td><![endif]
+Data     : 
+			
+Start tag: ul
+     attr: ('id', 'SubLayer2')
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/universo-empresarial/')
+Data     : Universo empresarial
+End tag  : a
+End tag  : li
+Data     : 
+			
+End tag  : ul
+Data     : 
+			
+Comment  : [if lte IE 6]></td></tr></table></a><![endif]
+Data     : 
+			
+End tag  : li
+Start tag: li
+     attr: ('class', 'nivel1')
+Start tag: a
+     attr: ('class', 'nivel1 ')
+     attr: ('href', 'http://www.eluniversal.com/deportes/')
+Data     : Deportes
+End tag  : a
+Data     : 			
+			
+Comment  : [if lte IE 6]><a class="" href="http://www.eluniversal.com/deportes/">Deportes<table class="falsa"><tr><td><![endif]
+Data     : 
+			
+Start tag: ul
+     attr: ('id', 'SubLayer3')
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/deportes/beisbol/')
+Data     : Beisbol
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/deportes/futbol/')
+Data     : Fútbol
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/blogs/')
+Data     : Blogs
+End tag  : a
+End tag  : li
+Data     : 
+			
+End tag  : ul
+Data     : 
+			
+Comment  : [if lte IE 6]></td></tr></table></a><![endif]
+Data     : 
+			
+End tag  : li
+Start tag: li
+     attr: ('class', 'nivel1')
+Start tag: a
+     attr: ('class', 'nivel1 Selected')
+     attr: ('href', 'http://www.eluniversal.com/caracas/')
+Data     : Caracas
+End tag  : a
+Data     : 			
+			
+Comment  : [if lte IE 6]><a class="Selected" href="http://www.eluniversal.com/caracas/">Caracas<table class="falsa"><tr><td><![endif]
+Data     : 
+			
+Start tag: ul
+     attr: ('id', 'SubLayer4')
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/carteles-y-edictos/')
+Data     : Carteles y Edictos
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/obituarios/')
+Data     : Obituarios
+End tag  : a
+End tag  : li
+Data     : 
+			
+End tag  : ul
+Data     : 
+			
+Comment  : [if lte IE 6]></td></tr></table></a><![endif]
+Data     : 
+			
+End tag  : li
+Start tag: li
+     attr: ('class', 'nivel2')
+Start tag: a
+     attr: ('class', 'nivel2 ')
+     attr: ('href', 'http://www.eluniversal.com/internacional/')
+Data     : Internacional
+End tag  : a
+Data     : 			
+			
+Comment  : [if lte IE 6]><a class="" href="http://www.eluniversal.com/internacional/">Internacional<table class="falsa"><tr><td><![endif]
+Data     : 
+			
+Comment  : [if lte IE 6]></td></tr></table></a><![endif]
+Data     : 
+			
+End tag  : li
+Start tag: li
+     attr: ('class', 'nivel1')
+Start tag: a
+     attr: ('class', 'nivel1 ')
+     attr: ('href', 'http://www.eluniversal.com/arte-y-entretenimiento/')
+Data     : Arte y Entretenimiento
+End tag  : a
+Data     : 			
+			
+Comment  : [if lte IE 6]><a class="" href="http://www.eluniversal.com/arte-y-entretenimiento/">Arte y Entretenimiento<table class="falsa"><tr><td><![endif]
+Data     : 
+			
+Start tag: ul
+     attr: ('id', 'SubLayer5')
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/arte-y-entretenimiento/cultura/')
+Data     : Cultura
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/arte-y-entretenimiento/cine/')
+Data     : Cine
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/arte-y-entretenimiento/television/')
+Data     : Televisión
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/arte-y-entretenimiento/musica/')
+Data     : Música
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/sociales/')
+Data     : Sociales
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/arte-y-entretenimiento/horoscopo/')
+Data     : Horóscopo
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/blogs/')
+Data     : Blogs
+End tag  : a
+End tag  : li
+Data     : 
+			
+End tag  : ul
+Data     : 
+			
+Comment  : [if lte IE 6]></td></tr></table></a><![endif]
+Data     : 
+			
+End tag  : li
+Start tag: li
+     attr: ('class', 'nivel1')
+Start tag: a
+     attr: ('class', 'nivel1 ')
+     attr: ('href', 'http://www.eluniversal.com/vida/')
+Data     : Vida
+End tag  : a
+Data     : 			
+			
+Comment  : [if lte IE 6]><a class="" href="http://www.eluniversal.com/vida/">Vida<table class="falsa"><tr><td><![endif]
+Data     : 
+			
+Start tag: ul
+     attr: ('id', 'SubLayer6')
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/guia-turistica/')
+Data     : Guía Turística
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/doblevia/')
+Data     : Doblevia
+End tag  : a
+End tag  : li
+Data     : 
+			
+Start tag: li
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/blogs/')
+Data     : Blogs
+End tag  : a
+End tag  : li
+Data     : 
+			
+
+End tag  : ul
+Data     : 
+
+Comment  : [if lte IE 6]></td></tr></table></a><![endif]
+Data     : 
+
+End tag  : li
+Data     : 
+
+		
+End tag  : ul
+Data     : 
+	
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+
+	
+Start tag: div
+     attr: ('class', 'clear W960 Donde')
+Data     : 
+	
+	
+		
+			
+Start tag: div
+     attr: ('align', 'left')
+     attr: ('class', 'clear DondeEstoy pb10 ')
+Data     : 
+		
+Start tag: div
+     attr: ('class', 'temadeldia')
+Data     : 
+		
+Start tag: div
+     attr: ('class', 'flecha clear floatL')
+Start tag: span
+Data     : 
+				Temas del Día
+		
+End tag  : span
+End tag  : div
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'floatL MTI3 temas')
+Data     : 
+					
+Start tag: a
+     attr: ('id', 'th_1')
+     attr: ('href', 'http://www.eluniversal.com/nacional-y-politica/elecciones-2012/?utm_source=site&&utm_medium=barra-tema-dia&&utm_campaign=elecciones-2012')
+Data     : Elecciones 2012
+End tag  : a
+Data     : 
+				
+End tag  : div
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'floatL MTI3 temas')
+Data     : 
+					
+Start tag: a
+     attr: ('id', 'th_6')
+     attr: ('href', 'http://www.eluniversal.com/internacional/revuelta-arabe/?utm_source=site&&utm_medium=barra-tema-dia&&utm_campaign=revuelta-arabe')
+Data     : Revuelta Árabe
+End tag  : a
+Data     : 
+				
+End tag  : div
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'floatL MTI3 temas')
+Data     : 
+					
+Start tag: a
+     attr: ('id', 'th_27')
+     attr: ('href', 'http://www.eluniversal.com/arte-y-entretenimiento/miss-venezuela-2012/?utm_source=site&&utm_medium=barra-tema-dia&&utm_campaign=miss-venezuela-2012')
+Data     : Miss Venezuela 2012
+End tag  : a
+Data     : 
+				
+End tag  : div
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'floatL MTI3 temas')
+Data     : 
+					
+Start tag: a
+     attr: ('id', 'th_28')
+     attr: ('href', 'http://www.eluniversal.com/deportes/torneo-apertura-2012/?utm_source=site&&utm_medium=barra-tema-dia&&utm_campaign=torneo-apertura-2012')
+Data     : Torneo Apertura 2012
+End tag  : a
+Data     : 
+				
+End tag  : div
+Data     : 
+		
+End tag  : div
+Data     : 
+		
+End tag  : div
+Data     : 
+		
+
+	
+	
+ 
+Start tag: div
+     attr: ('align', 'left')
+     attr: ('class', ' clear MT10')
+Data     : 
+	
+Start tag: div
+     attr: ('class', 'DondeEstoy floatL W500')
+     attr: ('align', 'left')
+Data     : 
+		
+			
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com')
+Data     : 
+			 Inicio
+			
+End tag  : a
+Data     : 
+			
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/caracas/')
+Data     : Caracas
+End tag  : a
+Data     :  
+Start tag: span
+     attr: ('class', 'colorC90 ')
+Start tag: strong
+Data     : Nota
+End tag  : strong
+End tag  : span
+Data     : 	
+		
+	
+End tag  : div
+Data     : 
+	
+Start tag: div
+     attr: ('class', 'DondeEstoyR floatR')
+Data     : 	
+	
+		
+Start tag: a
+     attr: ('href', 'javascript://')
+     attr: ('onclick', 'agregarPaginaInicio(this)')
+     attr: ('id', 'agregarInicio')
+Start tag: img
+     attr: ('width', '17')
+     attr: ('height', '15')
+     attr: ('src', 'http://static.eluniversal.com/images/eu3/icons-btns/casita2.gif')
+     attr: ('alt', 'El Universal como p\xe1gina de inicio')
+     attr: ('border', '0')
+End tag  : img
+End tag  : a
+Data     : 
+		
+Start tag: a
+     attr: ('href', 'javascript://')
+     attr: ('onclick', 'agregarFavorito();')
+     attr: ('id', 'agregarFavoritos')
+Start tag: img
+     attr: ('class', 'ML10')
+     attr: ('width', '14')
+     attr: ('height', '13')
+     attr: ('src', 'http://static.eluniversal.com/images/eu3/icons-btns/estrellita2.gif')
+     attr: ('alt', 'Agregar a favoritos')
+     attr: ('border', '0')
+End tag  : img
+End tag  : a
+Data     : 
+		
+Start tag: a
+     attr: ('href', 'javascript://')
+     attr: ('name', 'popupAyuda')
+     attr: ('class', 'dialog_link')
+     attr: ('rel', '/tiles/eu3/ayuda2.html')
+Start tag: img
+     attr: ('class', 'ML10')
+     attr: ('width', '14')
+     attr: ('height', '16')
+     attr: ('src', 'http://static.eluniversal.com/images/eu3/icons-btns/interrogacion.gif')
+     attr: ('alt', 'Ayuda')
+     attr: ('border', '0')
+End tag  : img
+End tag  : a
+Data     : 
+		| síguenos desde:
+		
+Start tag: a
+     attr: ('href', 'http://www.facebook.com/eluniversal')
+     attr: ('target', '_blank')
+Start tag: img
+     attr: ('class', ' ML5 MR5')
+     attr: ('alt', 'S\xedguenos desde Facebook')
+     attr: ('src', 'http://static.eluniversal.com/images/eu4/icons/facebook.gif')
+     attr: ('border', '0')
+     attr: ('height', '19')
+     attr: ('width', '19')
+End tag  : a
+Data     : |
+		
+Start tag: iframe
+     attr: ('scrolling', 'no')
+     attr: ('frameborder', '0')
+     attr: ('allowtransparency', 'true')
+     attr: ('src', u'http://platform.twitter.com/widgets/follow_button.html?screen_name=EUCaracas&button=blue&id=twitter_tweet_button_0&lang=es&show_count=false')
+     attr: ('class', 'twitter-follow-button')
+     attr: ('style', 'width: 170px; height: 20px;')
+End tag  : iframe
+Data     : 
+		
+Start tag: script
+     attr: ('type', 'text/javascript')
+     attr: ('src', 'http://platform.twitter.com/widgets.js')
+End tag  : script
+Data     : 
+	
+	 
+	
+End tag  : div
+Data     : 
+ 
+End tag  : div
+Data     : 	
+
+End tag  : div
+Data     : 
+
+			
+End tag  : div
+Data     : 
+		
+End tag  : div
+Data     : 
+    
+End tag  : div
+Data     : 
+    
+
+
+
+
+
+
+Start tag: div
+     attr: ('class', 'content_cuerpoindex_hm')
+Data     : 
+	
+Start tag: div
+     attr: ('class', 'cont_colizq01_hm')
+Data     : 
+		
+Start tag: div
+     attr: ('class', 'cont_colder01_hm')
+Data     : 
+	    	
+Start tag: div
+     attr: ('class', 'columna_izquierda')
+Data     :    
+	        	
+Start tag: div
+     attr: ('class', 'cont_izq_gl clear floatL')
+Data     : 
+	        		
+Start tag: div
+     attr: ('id', 'cont_cen1')
+Data     : 
+						
+Start tag: div
+     attr: ('class', 'pod_izq_gl')
+Data     : 
+							
+
+
+Start tag: script
+Data     : var artid=7169819;
+End tag  : script
+Data     : 
+
+Start tag: script
+     attr: ('type', 'text/javascript')
+     attr: ('src', 'https://apis.google.com/js/plusone.js')
+Data     : {lang: 'es'}
+End tag  : script
+Data     : 
+
+Start tag: div
+     attr: ('class', 'MB25 H25')
+Data     : 
+    
+Start tag: div
+     attr: ('class', 'PL5 clear')
+Data     : 
+		 
+Start tag: div
+     attr: ('class', 'floatL')
+     attr: ('style', 'padding-top:2px;')
+Data     : 
+		    
+Start tag: div
+     attr: ('class', 'addthis_toolbox addthis_default_style W300')
+Data     : 
+	            
+Start tag: a
+     attr: ('class', 'addthis_button_facebook_like')
+     attr: ('fb:like:layout', 'button_count')
+End tag  : a
+Data     : 
+	            
+Start tag: a
+     attr: ('class', 'addthis_button_tweet')
+     attr: ('tw:related', 'ELUniversal')
+     attr: ('tw:via', 'ELUniversal')
+End tag  : a
+Data     : 
+	            
+Start tag: a
+     attr: ('class', 'addthis_button_google_plusone')
+     attr: ('style', 'width:65px;')
+     attr: ('g:plusone:size', 'medium')
+End tag  : a
+Data     : 
+            
+End tag  : div
+Data     : 
+		 
+Start tag: script
+     attr: ('type', 'text/javascript')
+     attr: ('src', 'http://s7.addthis.com/js/250/addthis_widget.js#username=eluniversaladd')
+End tag  : script
+Data     : 
+		 
+End tag  : div
+Data     : 
+		
+Start tag: div
+     attr: ('class', 'floatR')
+Data     : 
+            
+Start tag: script
+     attr: ('type', 'text/javascript')
+Data     : var addthis_config = {"data_track_clickback":true, ui_header_color: "#000", ui_header_background: "#F4F3EF", services_compact: 'facebook, twitter, email, google, live, favorites, sonico, myspace, hotmail, blogger, gmail, delicious, digg, yahoomail, technorati, tumblr, newsvine, friendfeed, googlebuzz, linkedin, more'};
+End tag  : script
+Data     : 
+            
+Start tag: script
+     attr: ('type', 'text/javascript')
+Data     : var addthis_localize = {share_caption: "Compartir"};
+            var addthis_share = {
+            	    url_transforms : {
+            	        shorten: {      
+            	            twitter: 'bitly'
+            	        },
+            	    },
+            	    shorteners : {
+            	        bitly : { 
+            	            username: 'eluniversal',
+            	            apiKey: '1909EUhyp3rTi'
+            	        }
+            	    }
+            	}
+            
+End tag  : script
+Data     : 
+            
+Start tag: div
+     attr: ('class', 'addthis_toolbox addthis_default_style floatR')
+Comment  :  1 
+Data     : 
+	            
+Start tag: a
+     attr: ('href', u'http://www.addthis.com/bookmark.php?v=250&username=eluniversaladd')
+     attr: ('class', 'floatR PL5 addthis_button sprite9')
+     attr: ('title', 'Add this')
+Start tag: span
+     attr: ('class', 'sprite9-addthis')
+End tag  : span
+End tag  : a
+Data     : 
+	            
+Start tag: div
+     attr: ('class', 'colorccc PL5 PR5 PL5 floatR')
+Data     : |
+End tag  : div
+Data     : 
+	            
+Start tag: a
+     attr: ('class', 'addthis_button_facebook floatR')
+End tag  : a
+Data     : 
+	            
+Start tag: a
+     attr: ('class', 'addthis_button_email floatR')
+End tag  : a
+Data     : 
+	            
+Start tag: a
+     attr: ('class', 'addthis_button_favorites floatR')
+End tag  : a
+Data     : 
+	            
+Start tag: div
+     attr: ('class', 'floatR colorccc txt31 lh25 PR5')
+Data     : compartir
+End tag  : div
+Data     : 
+	            
+Start tag: div
+     attr: ('class', 'floatR colorccc PL5 PR5 PL5')
+Data     : |
+End tag  : div
+Data     : 
+	            
+	            
+Start tag: a
+     attr: ('href', 'javascript:;')
+     attr: ('onclick', "MM_openBrWindow('http://www.eluniversal.com/caracas/120824/no-te-engoriles-recopilo-su-trabajo-en-un-video-imp','Print','scrollbars=yes,resizable=yes,width=640,height=600')")
+     attr: ('title', 'Imprimir')
+     attr: ('class', 'floatR sprite9')
+Start tag: span
+     attr: ('class', 'sprite9-print')
+End tag  : span
+End tag  : a
+Data     : 
+	            
+Start tag: a
+     attr: ('onclick', "decreaseFontSize('SizeText');this.blur();return false;")
+     attr: ('href', 'javascript:;')
+     attr: ('class', 'floatR PR5 sprite9')
+     attr: ('title', u'Reducir tama\xf1o de letra')
+Start tag: span
+     attr: ('class', 'sprite9-a-menos')
+End tag  : span
+End tag  : a
+Data     : 
+	            
+Start tag: a
+     attr: ('onclick', "increaseFontSize('SizeText');this.blur();return false;")
+     attr: ('href', 'javascript:;')
+     attr: ('class', 'floatR PR5 sprite9')
+     attr: ('title', u'Agrandar tama\xf1o de letra')
+Start tag: span
+     attr: ('class', 'sprite9-a-mas')
+End tag  : span
+End tag  : a
+Data     : 
+            
+End tag  : div
+Data     : 
+        	
+Start tag: script
+     attr: ('type', 'text/javascript')
+     attr: ('src', 'http://s7.addthis.com/js/250/addthis_widget.js#username=eluniversaladd')
+End tag  : script
+Data     : 
+        
+End tag  : div
+Data     : 
+     
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+							
+Start tag: div
+     attr: ('class', 'clear color000 MB10 PL5')
+Data     : 
+					            
+Start tag: span
+     attr: ('class', 'txt60 color000')
+Start tag: a
+     attr: ('class', 'txt60 tdsi color000')
+     attr: ('href', 'http://www.eluniversal.com/indexSearch/do/index/show?code=pathFinder&pathid=INICIATIVA CIUDADANA')
+Data     : INICIATIVA CIUDADANA
+End tag  : a
+End tag  : span
+Data     :  
+								
+							
+End tag  : div
+Data     : 
+							
+Start tag: h1
+     attr: ('class', 'clear txt38 color000 MB10')
+Data     : "No te engoriles" recopiló su trabajo en un video 
+End tag  : h1
+Data     : 
+					        
+Start tag: h2
+     attr: ('class', 'txt35 color000 MT10 MR10')
+Data     : Las actividades realizadas en la campaña, en la que participan más de 20 artistas -embajadores de la paz- y numerosas organizaciones, contra la violencia fueron recopiladas en un material audiovisual. 
+End tag  : h2
+Data     : 
+							
+Start tag: div
+Data     : 
+						   		
+
+Comment  :  Prueba 
+Data     : 
+							
+End tag  : div
+Data     : 
+							
+Start tag: div
+     attr: ('class', 'pt20 PB10 PL5 especial')
+Data     : 
+								
+Start tag: div
+     attr: ('id', 'SizeText')
+     attr: ('class', 'normal')
+Data     : 
+									
+Comment  : contenido relacionado
+Data     : 
+									
+
+									
+
+									
+Start tag: div
+     attr: ('class', 'MT10 PB10 txt69 PL5 PT10')
+Data     : 
+										
+Start tag: div
+     attr: ('class', 'color000')
+Data     : 
+											EL UNIVERSAL
+										
+End tag  : div
+Data     : 
+								    	
+Start tag: div
+     attr: ('class', 'color000 PT10')
+Data     : viernes 24 de agosto de 2012
+Start tag: span
+     attr: ('class', 'colorC90 bold')
+Data     : 10:00 AM
+End tag  : span
+End tag  : div
+Data     : 
+									
+End tag  : div
+Data     : 
+					                
+									
+									
+Start tag: div
+     attr: ('class', 'PR10 txt51 color666')
+Start tag: div
+     attr: ('style', 'text-align: justify;')
+Data     : 
+	
+Start tag: strong
+     attr: ('class', 'color000')
+Data     : Caracas.-
+End tag  : strong
+Data     :  "No te engoriles" es el lema que desde noviembre de 2011 promueve la Comisión de Seguridad Ciudadana del Cabildo Metropolitano de Caracas junto a más de 20 artistas -embajadores de la paz- y numerosas organizaciones que se han sumado a la lucha contra la violencia. "No te engoriles" es una campaña que busca contribuir a elevar los niveles de convivencia en la ciudad y fomentar un buen comportamiento. Además, desmitificar la cultura de la violencia y a quienes la asumen como forma de vida, y explicar que ese no debe ser el camino a seguir para encontrar el éxito y el reconocimiento de los demás.
+Start tag: br
+End tag  : br
+Data     : 
+	
+Start tag: br
+End tag  : br
+Data     : 
+	En el marco de esta campaña, y con las consignas "Cambiemos la violencia por la convivencia" y "No a los violentos, no a los engorilados", la Comisión de Seguridad Ciudadana, artistas, bailarines, payasos y organizaciones aliadas, han realizado diferentes actividades a lo largo de este año y en diversos puntos de la ciudad, con el fin de demostrar que el humor y la música son buenos antídotos contra la violencia.
+Start tag: br
+End tag  : br
+Data     : 
+	
+Start tag: br
+End tag  : br
+Data     : 
+	Estas actividades fueron recopiladas en este video para recordarles a los caraqueños que si se cambian insultos por piropos; empujones y gritos por abrazos; y el sonido de las balas y por el sonido de la música, se vive diferente y se vive mejor.
+Start tag: br
+End tag  : br
+Data     : 
+	
+Start tag: br
+End tag  : br
+Data     : 
+	Aquí el link del video:
+Start tag: br
+End tag  : br
+Data     : 
+	http://www.youtube.com/watch?v=lk61deZIxsI
+Data     : feature=youtu.be
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+									
+								
+End tag  : div
+Data     : 
+								
+							
+End tag  : div
+Data     : 		
+						
+End tag  : div
+Data     : 
+					
+End tag  : div
+Data     : 
+					
+Start tag: div
+     attr: ('class', 'clear H10 MB10')
+End tag  : div
+Data     : 
+					
+
+
+Start tag: script
+Data     : var artid=7169819;
+End tag  : script
+Data     : 
+
+Start tag: script
+     attr: ('type', 'text/javascript')
+     attr: ('src', 'https://apis.google.com/js/plusone.js')
+Data     : {lang: 'es'}
+End tag  : script
+Data     : 
+
+Start tag: div
+     attr: ('class', 'MB25 H25')
+Data     : 
+    
+Start tag: div
+     attr: ('class', 'PL5 clear')
+Data     : 
+		 
+Start tag: div
+     attr: ('class', 'floatL')
+     attr: ('style', 'padding-top:2px;')
+Data     : 
+		    
+Start tag: div
+     attr: ('class', 'addthis_toolbox addthis_default_style W300')
+Data     : 
+	            
+Start tag: a
+     attr: ('class', 'addthis_button_facebook_like')
+     attr: ('fb:like:layout', 'button_count')
+End tag  : a
+Data     : 
+	            
+Start tag: a
+     attr: ('class', 'addthis_button_tweet')
+     attr: ('tw:related', 'ELUniversal')
+     attr: ('tw:via', 'ELUniversal')
+End tag  : a
+Data     : 
+	            
+Start tag: a
+     attr: ('class', 'addthis_button_google_plusone')
+     attr: ('style', 'width:65px;')
+     attr: ('g:plusone:size', 'medium')
+End tag  : a
+Data     : 
+            
+End tag  : div
+Data     : 
+		 
+Start tag: script
+     attr: ('type', 'text/javascript')
+     attr: ('src', 'http://s7.addthis.com/js/250/addthis_widget.js#username=eluniversaladd')
+End tag  : script
+Data     : 
+		 
+End tag  : div
+Data     : 
+		
+Start tag: div
+     attr: ('class', 'floatR')
+Data     : 
+            
+Start tag: script
+     attr: ('type', 'text/javascript')
+Data     : var addthis_config = {"data_track_clickback":true, ui_header_color: "#000", ui_header_background: "#F4F3EF", services_compact: 'facebook, twitter, email, google, live, favorites, sonico, myspace, hotmail, blogger, gmail, delicious, digg, yahoomail, technorati, tumblr, newsvine, friendfeed, googlebuzz, linkedin, more'};
+End tag  : script
+Data     : 
+            
+Start tag: script
+     attr: ('type', 'text/javascript')
+Data     : var addthis_localize = {share_caption: "Compartir"};
+            var addthis_share = {
+            	    url_transforms : {
+            	        shorten: {      
+            	            twitter: 'bitly'
+            	        },
+            	    },
+            	    shorteners : {
+            	        bitly : { 
+            	            username: 'eluniversal',
+            	            apiKey: '1909EUhyp3rTi'
+            	        }
+            	    }
+            	}
+            
+End tag  : script
+Data     : 
+            
+Start tag: div
+     attr: ('class', 'addthis_toolbox addthis_default_style floatR')
+Comment  :  1 
+Data     : 
+	            
+Start tag: a
+     attr: ('href', u'http://www.addthis.com/bookmark.php?v=250&username=eluniversaladd')
+     attr: ('class', 'floatR PL5 addthis_button sprite9')
+     attr: ('title', 'Add this')
+Start tag: span
+     attr: ('class', 'sprite9-addthis')
+End tag  : span
+End tag  : a
+Data     : 
+	            
+Start tag: div
+     attr: ('class', 'colorccc PL5 PR5 PL5 floatR')
+Data     : |
+End tag  : div
+Data     : 
+	            
+Start tag: a
+     attr: ('class', 'addthis_button_facebook floatR')
+End tag  : a
+Data     : 
+	            
+Start tag: a
+     attr: ('class', 'addthis_button_email floatR')
+End tag  : a
+Data     : 
+	            
+Start tag: a
+     attr: ('class', 'addthis_button_favorites floatR')
+End tag  : a
+Data     : 
+	            
+Start tag: div
+     attr: ('class', 'floatR colorccc txt31 lh25 PR5')
+Data     : compartir
+End tag  : div
+Data     : 
+	            
+Start tag: div
+     attr: ('class', 'floatR colorccc PL5 PR5 PL5')
+Data     : |
+End tag  : div
+Data     : 
+	            
+	            
+Start tag: a
+     attr: ('href', 'javascript:;')
+     attr: ('onclick', "MM_openBrWindow('http://www.eluniversal.com/caracas/120824/no-te-engoriles-recopilo-su-trabajo-en-un-video-imp','Print','scrollbars=yes,resizable=yes,width=640,height=600')")
+     attr: ('title', 'Imprimir')
+     attr: ('class', 'floatR sprite9')
+Start tag: span
+     attr: ('class', 'sprite9-print')
+End tag  : span
+End tag  : a
+Data     : 
+	            
+Start tag: a
+     attr: ('onclick', "decreaseFontSize('SizeText');this.blur();return false;")
+     attr: ('href', 'javascript:;')
+     attr: ('class', 'floatR PR5 sprite9')
+     attr: ('title', u'Reducir tama\xf1o de letra')
+Start tag: span
+     attr: ('class', 'sprite9-a-menos')
+End tag  : span
+End tag  : a
+Data     : 
+	            
+Start tag: a
+     attr: ('onclick', "increaseFontSize('SizeText');this.blur();return false;")
+     attr: ('href', 'javascript:;')
+     attr: ('class', 'floatR PR5 sprite9')
+     attr: ('title', u'Agrandar tama\xf1o de letra')
+Start tag: span
+     attr: ('class', 'sprite9-a-mas')
+End tag  : span
+End tag  : a
+Data     : 
+            
+End tag  : div
+Data     : 
+        	
+Start tag: script
+     attr: ('type', 'text/javascript')
+     attr: ('src', 'http://s7.addthis.com/js/250/addthis_widget.js#username=eluniversaladd')
+End tag  : script
+Data     : 
+        
+End tag  : div
+Data     : 
+     
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+					
+				
+Comment  : Vinculos Externos 
+Data     : 
+				
+				
+Comment  :  modulos digitales 
+Data     : 
+					
+					
+Comment  :     INICIOS DE LOS MODULOS     
+Data     :     
+
+Start tag: div
+     attr: ('class', 'CleanAll barraModDig')
+Start tag: img
+     attr: ('src', 'http://static.eluniversal.com/md/imag/logo_pestanaInt.jpg')
+     attr: ('width', '175')
+     attr: ('height', '41')
+     attr: ('alt', 'Modulos Digitales')
+Data     :  
+Start tag: span
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/md/')
+Data     : Publica aqu
+End tag  : a
+End tag  : span
+End tag  : div
+Data     :  
+
+Start tag: script
+Data     : 
+	var codE_Planning = "f06072dd9772276d";
+	document.write('<div id="eplAdDiv'+codE_Planning+'"></div>');
+
+End tag  : script
+Data     : 
+
+Comment  : FIN DE LOS MODULOS 
+Data     : 
+
+					
+Start tag: div
+     attr: ('class', 'pod_izq_gl')
+Data     : 
+					
+						
+
+Start tag: div
+     attr: ('id', 'userDisplay')
+     attr: ('style', 'display: none')
+     attr: ('class', 'txt1 color30')
+Data     : Hola 
+Start tag: span
+     attr: ('class', 'txt1 color30')
+     attr: ('id', 'nameDisplay')
+End tag  : span
+Start tag: span
+     attr: ('class', 'txt1 color30')
+     attr: ('id', 'lastNameDisplay')
+End tag  : span
+End tag  : div
+Data     : 
+
+Start tag: div
+     attr: ('id', 'userLogoutDisplay')
+     attr: ('style', 'display: none')
+     attr: ('class', 'txt1 color30')
+Start tag: span
+     attr: ('class', 'txt1 color30')
+Data     : si deseas cambiar de usuario
+Start tag: a
+     attr: ('href', 'javascript://')
+     attr: ('onclick', 'logoutUser()')
+     attr: ('class', 'colorC90 bold')
+Data     : haz click aquÃ­
+End tag  : a
+End tag  : span
+End tag  : div
+Data     : 
+
+
+Start tag: script
+     attr: ('type', 'text/javascript')
+Data     : 
+	var maxChars = {
+        // cross-browser event handling for IE5+, NS6 and Mozilla 
+        // By Scott Andrew 
+	addEvent: function(elm, evType, fn, useCapture) {
+		if(elm.addEventListener) {
+			elm.addEventListener(evType, fn, useCapture);
+			return true;
+		} else if(elm.attachEvent) {
+			var r = elm.attachEvent('on' + evType, fn);
+			return r;
+		} else {
+			elm['on' + evType] = fn;
+		}
+	},
+
+	attVal: function(element, attName) {
+	  return parseInt(element.getAttribute(attName));
+	},
+
+	init: function() {
+
+		if(!document.getElementsByTagName || !document.getElementById) {
+			return;
+		}
+
+		maxChars.form = document.getElementById('forma');
+		maxChars.textarea = document.getElementById('comment_text');
+		maxChars.maxlength = maxChars.attVal(maxChars.textarea, 'maxlength');
+		maxChars.limit_span = document.getElementById('limiter');
+		maxChars.limit_span.innerHTML = 'espacio para '+maxChars.maxlength+' caracteres';
+
+		maxChars.addEvent(maxChars.textarea, 'keyup', maxChars.countlimit, false);
+
+	},
+
+	countlimit: function(e) {
+		var placeholder;
+		var lengthleft = maxChars.maxlength - maxChars.textarea.value.length;
+
+		if(e && e.target) {
+			placeholder = e.target;
+		}
+
+		if(window.event && window.event.srcElement) {
+			placeholder = window.event.srcElement;
+		}
+
+		if(!placeholder) {
+			return;
+		} else if(lengthleft < 0) {
+			maxChars.textarea.value = maxChars.textarea.value.substring(0, maxChars.maxlength);
+		} else if(lengthleft > 1) {
+			maxChars.limit_span.innerHTML = 'espacio para '+lengthleft+' caracteres';
+		} else {
+			maxChars.limit_span.innerHTML = 'espacio para '+lengthleft+' caracteres';
+		}
+	}
+	}
+	maxChars.addEvent(window, 'load', maxChars.init, false);    
+
+End tag  : script
+Data     : 
+
+Start tag: div
+     attr: ('class', 'clear Box H10 MB10')
+End tag  : div
+Data     : 
+
+Start tag: div
+     attr: ('class', 'MT10 PB10 PL5')
+Data     : 
+	
+Start tag: div
+     attr: ('class', 'clear TAL floatL PT10')
+Start tag: span
+     attr: ('class', 'txt7 bold floatL')
+Data     : Participa!
+End tag  : span
+Start tag: span
+     attr: ('id', 'loginName')
+     attr: ('style', 'display: none')
+     attr: ('class', 'color000 txt1')
+End tag  : span
+Start tag: span
+     attr: ('id', 'logoutDisplay')
+     attr: ('style', 'display: none')
+End tag  : span
+End tag  : div
+Start tag: br
+Data     : 
+	
+Start tag: div
+     attr: ('class', 'clear txt36 PT5 color30')
+Data     : Envíanos tus comentarios 
+End tag  : div
+Data     : 
+	
+Start tag: div
+     attr: ('id', 'usuarioRegistrado')
+Data     : 
+		
+Start tag: div
+     attr: ('class', 'clear txt36 color30 PT5 M0')
+Data     : Para escribir tus comentarios en las notas, necesitas ser usuario registrado 
+Start tag: br
+Data     : de 
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com')
+     attr: ('class', 'bold color000 TDno')
+Data     : EL UNIVERSAL
+End tag  : a
+Data     : . Si no lo eres, 
+Start tag: a
+     attr: ('href', 'javascript://')
+     attr: ('onclick', 'showPageRegister()')
+     attr: ('id', 'dialog_link2')
+     attr: ('class', 'bold colorC90')
+Data     : Reg
+Data     : strate aqu
+End tag  : a
+Data     : 
+        	
+Start tag: div
+     attr: ('id', 'dialog3')
+End tag  : div
+Data     : 
+        
+End tag  : div
+Data     : 
+		
+Start tag: div
+     attr: ('class', 'MT10  h40 backF4F3EF p7')
+Data     : 
+			
+Start tag: form
+Data     : 
+		    
+Start tag: div
+     attr: ('class', 'floatL txt36')
+Data     : 
+		        
+Start tag: span
+     attr: ('class', 'colorC90 bold floatL')
+Data     : correo
+End tag  : span
+Data     : (obligatorio)
+Start tag: br
+Data     : 
+		        
+Start tag: input
+     attr: ('type', 'text')
+     attr: ('name', 'log_mail')
+     attr: ('id', 'log_mail')
+     attr: ('size', '28')
+     attr: ('class', 'MT5')
+End tag  : input
+Data     : 
+		    
+End tag  : div
+Data     : 
+		    
+Start tag: div
+     attr: ('class', 'txt36 floatL')
+Data     : 
+		        
+Start tag: span
+     attr: ('class', 'bold ML5 colorC90')
+Data     : clave
+End tag  : span
+Data     : (obligatorio)
+Start tag: br
+Data     : 
+		        
+Start tag: input
+     attr: ('type', 'password')
+     attr: ('name', 'log_pass')
+     attr: ('id', 'log_pass')
+     attr: ('size', '28')
+     attr: ('class', 'MT5 ML5')
+End tag  : input
+Data     : 
+		    
+End tag  : div
+Data     : 
+		    
+Start tag: div
+     attr: ('class', 'MT20 ML20 floatR')
+Start tag: a
+     attr: ('href', 'javascript://')
+     attr: ('onclick', 'sendLoginFormArt()')
+Start tag: img
+     attr: ('border', '0')
+     attr: ('alt', 'Ingresar')
+     attr: ('src', 'http://static.eluniversal.com/images/eu3/icons-btns/ingresar.gif')
+End tag  : img
+End tag  : a
+Data     : 
+            	
+Start tag: div
+     attr: ('id', 'iniciosesion')
+End tag  : div
+Data     : 
+            
+End tag  : div
+Data     : 
+			
+End tag  : form
+Data     : 
+		
+End tag  : div
+Data     : 
+	
+End tag  : div
+Data     : 
+	
+Start tag: div
+     attr: ('id', 'ingresoComentario')
+     attr: ('style', 'display:none')
+Data     : 
+		
+Start tag: div
+     attr: ('class', 'MT10 backF4F3EF p7 h135')
+Data     : 
+			
+			
+Start tag: span
+     attr: ('class', 'txt36 pt15 color30')
+Data     : Espacio para 
+Start tag: i
+     attr: ('class', 'txt1 pt15')
+Data     : (m
+Data     : ximo 
+Start tag: span
+     attr: ('id', 'msgRestantes')
+Data     : 1000
+End tag  : span
+Data     :  caracteres)
+End tag  : i
+End tag  : span
+Data     : 
+			
+			
+Start tag: form
+     attr: ('name', 'forma')
+     attr: ('method', 'post')
+     attr: ('id', 'forma')
+Data     : 
+			
+Start tag: input
+     attr: ('type', 'hidden')
+     attr: ('name', 'profile')
+     attr: ('id', 'profile')
+     attr: ('value', 'eu3')
+End tag  : input
+Data     : 
+			
+Start tag: input
+     attr: ('type', 'hidden')
+     attr: ('name', 'channelCode')
+     attr: ('id', 'channelCode')
+     attr: ('value', 'ccs')
+End tag  : input
+Data     : 
+			
+Start tag: input
+     attr: ('type', 'hidden')
+     attr: ('name', 'userID')
+     attr: ('id', 'userID')
+     attr: ('value', '0')
+End tag  : input
+Data     : 
+			
+Start tag: input
+     attr: ('type', 'hidden')
+     attr: ('name', 'articleID')
+     attr: ('id', 'articleID')
+     attr: ('value', '7169819')
+End tag  : input
+Data     : 
+			
+Start tag: a
+     attr: ('id', 'anclaComment')
+End tag  : a
+Data     :   
+			    
+Start tag: textarea
+     attr: ('name', 'comment_text')
+     attr: ('cols', '63')
+     attr: ('maxlength', '1000')
+     attr: ('class', 'p2')
+     attr: ('id', 'comment_text')
+     attr: ('onmouseout', "countChars(this, 1000,document.getElementById('msgRestantes'));")
+     attr: ('onmousedown', "countChars(this, 1000, document.getElementById('msgRestantes'));")
+     attr: ('onchange', "countChars(this, 1000, document.getElementById('msgRestantes'));")
+     attr: ('onblur', "countChars(this, 1000, document.getElementById('msgRestantes'));")
+     attr: ('onkeyup', "countChars(this, 1000, document.getElementById('msgRestantes'));")
+     attr: ('onkeydown', "countChars(this, 1000, document.getElementById('msgRestantes'));")
+     attr: ('onfocus', "countChars(this, 1000, document.getElementById('msgRestantes'));")
+     attr: ('style', 'height: 70px;')
+End tag  : textarea
+Data     : 
+			    
+Start tag: div
+     attr: ('id', 'limiter')
+     attr: ('style', 'display:none')
+End tag  : div
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'ML20 floatR')
+     attr: ('style', 'margin-top:20px !important;')
+Start tag: a
+     attr: ('href', 'javascript://')
+     attr: ('onclick', 'sendCommentForm(document.forma)')
+Start tag: img
+     attr: ('border', '0')
+     attr: ('alt', 'Aceptar')
+     attr: ('src', 'http://static.eluniversal.com/images/surafrica10/icons-btns/bot_AceptarOFF.gif')
+End tag  : img
+End tag  : a
+End tag  : div
+Data     : 
+				
+Start tag: div
+     attr: ('id', 'commentOkDiv')
+End tag  : div
+Data     : 
+			
+End tag  : form
+Data     : 
+		
+End tag  : div
+Data     : 
+	
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+
+Start tag: div
+     attr: ('class', 'clear Box H10 MB10')
+End tag  : div
+Data     : 
+
+Start tag: div
+     attr: ('class', 'txt36 color30 PL10 PB10  PT10 LH20 backF4F3EF')
+Data     : 
+
+Start tag: span
+     attr: ('class', 'bold')
+Data     : El Universal
+End tag  : span
+Data     :  respeta y defiende el derecho a la libre expresión, pero también vela por el respeto a la legalidad y a los participantes en este foro. Invitamos a nuestros usuarios a mantener un contenido y vocabulario adecuado y apegado a las leyes.
+Start tag: br
+Data     : 
+
+Start tag: span
+     attr: ('class', 'bold')
+Data     : El Universal
+End tag  : span
+Data     :  no se hace responsable por las opiniones emitidas en este espacio. Los comentarios aqu
+Data     :  publicados son responsabilidad de qui
+Data     : n los escribe.
+Start tag: br
+Data     : 
+
+Start tag: span
+     attr: ('class', 'bold')
+Data     : El Universal
+End tag  : span
+Data     :  no permite la publicaci
+Data     : n de mensajes an
+Data     : nimos o bajo seud
+Data     : nimos.
+Start tag: br
+Data     : 
+
+Start tag: span
+     attr: ('class', 'bold')
+Data     : El Universal
+End tag  : span
+Data     :  se reserva el derecho de editar los textos y de eliminar aquellos que utilicen un lenguaje no apropiado y/o que vaya en contra de las leyes venezolanas.
+
+End tag  : div
+Data     : 
+        			
+					
+End tag  : div
+Data     : 
+				
+End tag  : div
+Data     : 
+			
+End tag  : div
+Data     : 
+			
+Start tag: div
+     attr: ('class', 'columna_derecha')
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'cont_der_gl')
+Data     : 
+					
+Start tag: div
+     attr: ('id', 'ventanacomunic1')
+     attr: ('class', 'clear')
+     attr: ('align', 'center')
+Data     : 
+							
+Start tag: div
+     attr: ('class', 'clear BB3')
+End tag  : div
+Data     : 
+							
+Start tag: div
+     attr: ('class', 'esp_publicidad PL10')
+Data     : ESPACIO PUBLICITARIO
+End tag  : div
+Data     : 							
+		                	
+Start tag: div
+     attr: ('class', 'clear')
+     attr: ('align', 'center')
+Data     : 
+		                       	
+Start tag: script
+     attr: ('language', 'JavaScript')
+     attr: ('src', 'http://204.228.236.10/RealMedia/ads/adstream_jx.ads/www.eluniversal.com/ccs/ventanacomunic1@Right')
+End tag  : script
+Data     : 
+							
+End tag  : div
+Data     : 
+		                    	            		
+					
+End tag  : div
+Data     : 
+				
+End tag  : div
+Data     : 
+	            
+Start tag: div
+     attr: ('class', 'cont_der_gl')
+Data     : 
+					
+Start tag: div
+     attr: ('class', 'pod_der_gl clear PT5 TAL')
+Data     : 
+     
+Start tag: div
+     attr: ('class', 'txt15 bold TAL')
+Data     : Acceso r
+Data     : pido a:
+End tag  : div
+Data     : 
+     
+Start tag: div
+     attr: ('class', 'backF0 overflowH MT5 PB5 H40E')
+Data     : 
+        
+Start tag: div
+     attr: ('class', 'floatL W90 ML10 sprite1')
+Data     : 
+            
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/rss.shtml')
+     attr: ('class', 'txt2 bold CH')
+Start tag: span
+     attr: ('class', 'sprite1-rss-icon12x12 floatL MT5')
+End tag  : span
+Data     : RSS
+End tag  : a
+Data     : 
+        
+End tag  : div
+Data     : 
+        
+Start tag: div
+     attr: ('class', 'floatL W105 ML10 sprite1')
+Data     : 
+            
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/registro/do/showHome')
+     attr: ('class', 'txt2 bold CH')
+Start tag: span
+     attr: ('class', 'sprite1-flecha-lnkamarillo3 MT5 floatL')
+End tag  : span
+Data     : Correo Diario
+End tag  : a
+Data     : 
+        
+End tag  : div
+Data     : 
+        
+Start tag: div
+     attr: ('class', 'floatL W90 ML10 sprite1')
+Data     : 
+            
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/movil.shtml')
+     attr: ('class', 'txt2 bold CH')
+Start tag: span
+     attr: ('class', 'sprite1-flecha-lnkamarillo3 MT5 floatL')
+End tag  : span
+Data     : Movil
+End tag  : a
+Data     : 
+        
+End tag  : div
+Data     :                     
+        
+Start tag: div
+     attr: ('class', 'clear floatL W90 ML10 sprite1')
+Data     : 
+            
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/obituarios/')
+     attr: ('class', 'txt2 bold CH')
+Start tag: span
+     attr: ('class', 'sprite1-flecha-lnkamarillo3 floatL MT5')
+End tag  : span
+Data     : Obituarios
+End tag  : a
+Data     : 
+        
+End tag  : div
+Data     : 
+        
+Start tag: div
+     attr: ('class', 'floatL ML10 W105 sprite1')
+Data     : 
+            
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/gacetas-oficiales/')
+     attr: ('class', 'txt2 bold CH')
+Start tag: span
+     attr: ('class', 'sprite1-flecha-lnkamarillo3 MT5 floatL')
+End tag  : span
+Data     : Gaceta Oficial
+End tag  : a
+Data     : 
+        
+End tag  : div
+Data     : 
+        
+Start tag: div
+     attr: ('class', 'floatL ML10 W135 sprite1')
+Data     : 
+            
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/carteles-y-edictos/')
+     attr: ('class', 'txt2 bold CH')
+Start tag: span
+     attr: ('class', 'sprite1-flecha-lnkamarillo3 MT5 floatL')
+End tag  : span
+Data     : Carteles y Edictos
+End tag  : a
+Data     : 
+        
+End tag  : div
+Data     : 
+     
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+				
+End tag  : div
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'clear Box H10 MT0E')
+End tag  : div
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'cont_der_gl clear MT10')
+Data     : 
+					
+Start tag: div
+     attr: ('class', 'W392 PT4 H18')
+     attr: ('align', 'right')
+Data     : 
+    
+Start tag: div
+     attr: ('id', 'sprite1')
+     attr: ('class', 'floatR')
+Data     : 
+    	
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/jornadaCompleta.shtml')
+     attr: ('class', 'txt2 CH')
+Start tag: strong
+     attr: ('class', 'floatL TDsi')
+Data     : Ver Jornada completa
+End tag  : strong
+Start tag: span
+     attr: ('class', 'sprite1-flecha-lnkblue MT3 floatL')
+End tag  : span
+End tag  : a
+Data     : 
+    
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+
+Start tag: div
+     attr: ('class', 'floatL pod_der_gl lom-lou bcc')
+Data     : 
+	
+Start tag: div
+     attr: ('class', 'tabs clear')
+     attr: ('style', 'padding:10px;')
+Data     : 
+        
+Start tag: ul
+     attr: ('class', 'h25')
+     attr: ('style', 'background:#F4F3EF')
+Data     : 
+            
+Start tag: li
+     attr: ('class', 'borderNo MT3 ML10')
+Start tag: a
+     attr: ('href', '#tabs6-1')
+Data     : Lo 
+Data     : ltimo
+End tag  : a
+End tag  : li
+Data     : 
+            
+Start tag: li
+     attr: ('class', 'borderNo MT3 ML10')
+Start tag: a
+     attr: ('href', '#tabs6-2')
+Data     : Lo recomendado
+End tag  : a
+End tag  : li
+Data     : 
+        
+End tag  : ul
+Data     : 
+		
+Start tag: div
+     attr: ('id', 'tabs6-1')
+     attr: ('align', 'left')
+Data     : 
+			
+
+
+Start tag: div
+     attr: ('class', 'cont_der_gl clear MT10')
+     attr: ('style', 'width:359px')
+Data     : 
+	
+				
+Start tag: div
+     attr: ('class', 'backFFF clear PB20E PT10  overflowH PB5')
+Data     : 
+			    	
+Start tag: a
+     attr: ('href', '/economia/120824/cavidea-registra-caida-de-349-en-el-volumen-de-ventas-durante-julio')
+Data     : 
+			        
+End tag  : a
+Data     : 
+					
+Start tag: span
+     attr: ('class', 'txt72 MT4 bold color666')
+Start tag: strong
+Data     : ECONOMÍA.
+End tag  : strong
+End tag  : span
+Data     : 
+			        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/economia/120824/cavidea-registra-caida-de-349-en-el-volumen-de-ventas-durante-julio')
+Start tag: span
+Data     : Cavidea registra caída de 3,49% en el volumen de ventas durante julio
+End tag  : span
+End tag  : a
+Data     : 
+					
+Start tag: br
+Data     : 
+					
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71 PT5')
+     attr: ('href', '/economia/120824/cavidea-registra-caida-de-349-en-el-volumen-de-ventas-durante-julio')
+Data     : Comentarios (0)
+
+End tag  : a
+End tag  : div
+Data     : 
+				
+End tag  : div
+Data     : 
+			
+	
+				
+Start tag: div
+     attr: ('class', 'backF9F8F3 clear PB20E MT10 PL5 PR5 overflowH PB5')
+Data     : 
+			    	
+Start tag: span
+     attr: ('class', 'txt72  bold color666')
+Start tag: strong
+Data     : SUCESOS.
+End tag  : strong
+End tag  : span
+Data     : 
+			        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/sucesos/120824/roban-entidad-bancaria-en-san-diego')
+Data     : Roban entidad bancaria en San Diego
+End tag  : a
+Data     : 
+					
+Start tag: br
+Data     : 
+					
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71')
+     attr: ('href', '/sucesos/120824/roban-entidad-bancaria-en-san-diego')
+Data     : Comentarios (0)
+
+End tag  : a
+End tag  : div
+Data     : 
+			    
+End tag  : div
+Data     :             
+			
+	
+				
+Start tag: div
+     attr: ('class', 'backFFF clear PB20E MT10 PL5 PR5 overflowH PB5')
+Data     : 
+			    	
+Start tag: span
+     attr: ('class', 'txt72  bold color666')
+Start tag: strong
+Data     : VIDA.
+End tag  : strong
+End tag  : span
+Data     : 
+			        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/vida/120824/justicia-surcoreana-establece-que-apple-y-samsung-violan-patentes')
+Data     : Justicia surcoreana establece que Apple y Samsung violan patentes
+End tag  : a
+Data     : 
+					
+Start tag: br
+Data     : 
+					
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71')
+     attr: ('href', '/vida/120824/justicia-surcoreana-establece-que-apple-y-samsung-violan-patentes')
+Data     : Comentarios (0)
+
+End tag  : a
+End tag  : div
+Data     : 
+			    
+End tag  : div
+Data     :             
+			
+	
+				
+Start tag: div
+     attr: ('class', 'backF9F8F3 clear PB20E MT10 PL5 PR5 overflowH PB5')
+Data     : 
+			    	
+Start tag: span
+     attr: ('class', 'txt72  bold color666')
+Start tag: strong
+Data     : NACIONAL Y POLÍTICA.
+End tag  : strong
+End tag  : span
+Data     : 
+			        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/nacional-y-politica/120824/en-barinas-22-familias-afectadas-por-las-fuertes-precipitaciones')
+Data     : En Barinas 22 familias afectadas por las fuertes precipitaciones
+End tag  : a
+Data     : 
+					
+Start tag: br
+Data     : 
+					
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71')
+     attr: ('href', '/nacional-y-politica/120824/en-barinas-22-familias-afectadas-por-las-fuertes-precipitaciones')
+Data     : Comentarios (0)
+
+End tag  : a
+End tag  : div
+Data     : 
+			    
+End tag  : div
+Data     :             
+			
+	
+				
+Start tag: div
+     attr: ('class', 'backFFF clear PB20E MT10 PL5 PR5 overflowH PB5')
+Data     : 
+			    	
+Start tag: span
+     attr: ('class', 'txt72  bold color666')
+Start tag: strong
+Data     : INTERNACIONAL.
+End tag  : strong
+End tag  : span
+Data     : 
+			        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/internacional/120824/denuncian-al-diario-the-sun-por-publicar-fotos-de-principe-harry-desnu')
+Data     : Denuncian al diario "The Sun" por publicar fotos de príncipe Harry desnudo
+End tag  : a
+Data     : 
+					
+Start tag: br
+Data     : 
+					
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71')
+     attr: ('href', '/internacional/120824/denuncian-al-diario-the-sun-por-publicar-fotos-de-principe-harry-desnu')
+Data     : Comentarios (0)
+
+End tag  : a
+End tag  : div
+Data     : 
+			    
+End tag  : div
+Data     :             
+			
+	
+				
+Start tag: div
+     attr: ('class', 'backF9F8F3 clear PB20E MT10 PL5 PR5 overflowH PB5')
+Data     : 
+			    	
+Start tag: span
+     attr: ('class', 'txt72  bold color666')
+Start tag: strong
+Data     : NACIONAL Y POLÍTICA.
+End tag  : strong
+End tag  : span
+Data     : 
+			        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/nacional-y-politica/120824/tsj-rechaza-accion-contra-dirigente-rafael-uzcategui')
+Data     : TSJ rechaza acción contra dirigente Rafael Uzcátegui
+End tag  : a
+Data     : 
+					
+Start tag: br
+Data     : 
+					
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71')
+     attr: ('href', '/nacional-y-politica/120824/tsj-rechaza-accion-contra-dirigente-rafael-uzcategui')
+Data     : Comentarios (0)
+
+End tag  : a
+End tag  : div
+Data     : 
+			    
+End tag  : div
+Data     :             
+			
+	
+				
+Start tag: div
+     attr: ('class', 'backFFF clear PB20E MT10 PL5 PR5 overflowH PB5')
+Data     : 
+			    	
+Start tag: span
+     attr: ('class', 'txt72  bold color666')
+Start tag: strong
+Data     : CARACAS.
+End tag  : strong
+End tag  : span
+Data     : 
+			        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/caracas/120824/advierten-peligro-de-desbordamiento-del-rio-san-pedro-en-el-sector-el-')
+Data     : Advierten peligro de desbordamiento del río San Pedro en el sector El Paso
+End tag  : a
+Data     : 
+					
+Start tag: br
+Data     : 
+					
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71')
+     attr: ('href', '/caracas/120824/advierten-peligro-de-desbordamiento-del-rio-san-pedro-en-el-sector-el-')
+Data     : Comentarios (0)
+
+End tag  : a
+End tag  : div
+Data     : 
+			    
+End tag  : div
+Data     :             
+			
+	
+End tag  : div
+Data     : 
+
+
+        
+End tag  : div
+Data     : 
+        
+Start tag: div
+     attr: ('id', 'tabs6-2')
+     attr: ('align', 'left')
+Data     : 
+           	
+    
+Start tag: div
+     attr: ('class', 'cont_der_gl clear MT10')
+     attr: ('style', 'width:359px')
+Data     : 
+		
+		  
+Start tag: div
+     attr: ('class', 'backFFF clear PB20E PT10 MT10 PL5 PR5 overflowH PB5')
+Data     : 
+		  
+		    
+Start tag: a
+     attr: ('href', '/economia/120824/aplicacion-de-la-lottt-genera-conflictividad-en-las-industrias')
+Start tag: img
+     attr: ('src', 'http://static.eluniversal.com/2012/08/24/11909903_copia.jpg.152.100.thumb')
+     attr: ('alt', 'Aplicaci\xf3n de la Lottt genera conflictividad en las industrias')
+     attr: ('border', '0')
+     attr: ('class', 'MR5')
+     attr: ('align', 'left')
+End tag  : img
+End tag  : a
+Data     : 
+		   
+		
+Start tag: span
+     attr: ('class', 'txt4 MT4 colorC90 bold MR5')
+Data     : 
+    	
+		1 - 9
+		
+End tag  : span
+Data     : 
+		
+Start tag: span
+     attr: ('class', 'txt72 MT4 bold color666')
+Start tag: strong
+Data     : LABORAL.
+End tag  : strong
+End tag  : span
+Data     : 
+        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/economia/120824/aplicacion-de-la-lottt-genera-conflictividad-en-las-industrias')
+Data     : Aplicación de la Lottt genera conflictividad en las industrias
+End tag  : a
+Data     : 
+        
+Start tag: br
+Data     : 
+        
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71 PT5')
+     attr: ('href', '/economia/120824/aplicacion-de-la-lottt-genera-conflictividad-en-las-industrias#comments')
+Data     : 
+        
+        Comentarios   (0)
+
+        
+End tag  : a
+End tag  : div
+Data     : 
+        
+		  
+End tag  : div
+Data     : 
+		  
+		  
+Start tag: div
+     attr: ('class', 'backF9F8F3 clear PB20E PT10 PT10 overflowH PB5')
+Data     : 
+		  
+		
+Start tag: span
+     attr: ('class', 'txt4 MT5 colorC90 bold MR5')
+Data     : 
+    	
+		1 - 6
+		
+End tag  : span
+Data     : 
+		
+Start tag: span
+     attr: ('class', 'txt72  bold color666')
+Start tag: strong
+Data     : NACIONAL Y POLÍTICA.
+End tag  : strong
+End tag  : span
+Data     : 
+        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/nacional-y-politica/120824/en-cupira-se-impone-el-rebusque')
+Data     : En Cúpira se impone el rebusque
+End tag  : a
+Data     : 
+        
+Start tag: br
+Data     : 
+        
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71 PT5')
+     attr: ('href', '/nacional-y-politica/120824/en-cupira-se-impone-el-rebusque#comments')
+Data     : 
+        
+        Comentarios   (1)
+
+        
+End tag  : a
+End tag  : div
+Data     : 
+        
+		  
+End tag  : div
+Data     : 
+		  
+		  
+Start tag: div
+     attr: ('class', 'backFFF clear PB20E PT10 PT10 overflowH PB5')
+Data     : 
+		  
+		
+Start tag: span
+     attr: ('class', 'txt4 MT5 colorC90 bold MR5')
+Data     : 
+    	09:06 AM.
+End tag  : span
+Data     : 
+		
+Start tag: span
+     attr: ('class', 'txt72  bold color666')
+Start tag: strong
+Data     : CÁRCELES.
+End tag  : strong
+End tag  : span
+Data     : 
+        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/sucesos/120824/autoridades-penitenciarias-piden-a-familiares-de-internos-salir-de-yar')
+Data     : Autoridades penitenciarias piden a familiares de internos salir de Yare I
+End tag  : a
+Data     : 
+        
+Start tag: br
+Data     : 
+        
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71 PT5')
+     attr: ('href', '/sucesos/120824/autoridades-penitenciarias-piden-a-familiares-de-internos-salir-de-yar#comments')
+Data     : 
+        
+        Comentarios   (6)
+
+        
+End tag  : a
+End tag  : div
+Data     : 
+        
+		  
+End tag  : div
+Data     : 
+		  
+		  
+Start tag: div
+     attr: ('class', 'backF9F8F3 clear PB20E PT10 PT10 overflowH PB5')
+Data     : 
+		  
+		
+Start tag: span
+     attr: ('class', 'txt4 MT5 colorC90 bold MR5')
+Data     : 
+    	
+		1 - 9
+		
+End tag  : span
+Data     : 
+		
+Start tag: span
+     attr: ('class', 'txt72  bold color666')
+Start tag: strong
+Data     : ECONOMÍA.
+End tag  : strong
+End tag  : span
+Data     : 
+        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/economia/120824/detenidos-cinco-sindicalistas-del-sector-construccion')
+Data     : Detenidos cinco sindicalistas del sector construcción
+End tag  : a
+Data     : 
+        
+Start tag: br
+Data     : 
+        
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71 PT5')
+     attr: ('href', '/economia/120824/detenidos-cinco-sindicalistas-del-sector-construccion#comments')
+Data     : 
+        
+        Comentarios   (0)
+
+        
+End tag  : a
+End tag  : div
+Data     : 
+        
+		  
+End tag  : div
+Data     : 
+		  
+		  
+Start tag: div
+     attr: ('class', 'backFFF clear PB20E PT10 PT10 overflowH PB5')
+Data     : 
+		  
+		
+Start tag: span
+     attr: ('class', 'txt4 MT5 colorC90 bold MR5')
+Data     : 
+    	
+		1 - 4
+		
+End tag  : span
+Data     : 
+		
+Start tag: span
+     attr: ('class', 'txt72  bold color666')
+Start tag: strong
+Data     : NACIONAL Y POLÍTICA.
+End tag  : strong
+End tag  : span
+Data     : 
+        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/nacional-y-politica/120824/600-fiscales-participaran-en-el-simulacro-electoral-del-domingo')
+Data     : 600 fiscales participarán  en el simulacro electoral  del domingo
+End tag  : a
+Data     : 
+        
+Start tag: br
+Data     : 
+        
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71 PT5')
+     attr: ('href', '/nacional-y-politica/120824/600-fiscales-participaran-en-el-simulacro-electoral-del-domingo#comments')
+Data     : 
+        
+        Comentarios   (0)
+
+        
+End tag  : a
+End tag  : div
+Data     : 
+        
+		  
+End tag  : div
+Data     : 
+		  
+		  
+Start tag: div
+     attr: ('class', 'backF9F8F3 clear PB20E PT10 PT10 overflowH PB5')
+Data     : 
+		  
+		
+Start tag: span
+     attr: ('class', 'txt4 MT5 colorC90 bold MR5')
+Data     : 
+    	07:03 AM.
+End tag  : span
+Data     : 
+		
+Start tag: span
+     attr: ('class', 'txt72  bold color666')
+Start tag: strong
+Data     : ESTADOS UNIDOS 2012.
+End tag  : strong
+End tag  : span
+Data     : 
+        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/internacional/estados-unidos-2012/120824/obama-cae-mas-simpatico-pero-romney-tiene-ventaja-en-propuesta-economi')
+Data     : Obama cae más simpático pero Romney tiene ventaja en propuesta económica
+End tag  : a
+Data     : 
+        
+Start tag: br
+Data     : 
+        
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71 PT5')
+     attr: ('href', '/internacional/estados-unidos-2012/120824/obama-cae-mas-simpatico-pero-romney-tiene-ventaja-en-propuesta-economi#comments')
+Data     : 
+        
+        Comentarios   (0)
+
+        
+End tag  : a
+End tag  : div
+Data     : 
+        
+		  
+End tag  : div
+Data     : 
+		  
+		  
+Start tag: div
+     attr: ('class', 'backFFF clear PB20E PT10 PT10 overflowH PB5')
+Data     : 
+		  
+		
+Start tag: span
+     attr: ('class', 'txt4 MT5 colorC90 bold MR5')
+Data     : 
+    	09:03 AM.
+End tag  : span
+Data     : 
+		
+Start tag: span
+     attr: ('class', 'txt72  bold color666')
+Start tag: strong
+Data     : ELECCIONES 2012.
+End tag  : strong
+End tag  : span
+Data     : 
+        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/nacional-y-politica/elecciones-2012/120824/cne-activa-linea-para-facilitar-el-voto-en-simulacro-electoral-del-dom')
+Data     : CNE activa línea para facilitar el voto en simulacro electoral del domingo
+End tag  : a
+Data     : 
+        
+Start tag: br
+Data     : 
+        
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71 PT5')
+     attr: ('href', '/nacional-y-politica/elecciones-2012/120824/cne-activa-linea-para-facilitar-el-voto-en-simulacro-electoral-del-dom#comments')
+Data     : 
+        
+        Comentarios   (0)
+
+        
+End tag  : a
+End tag  : div
+Data     : 
+        
+		  
+End tag  : div
+Data     : 
+		  
+		  
+Start tag: div
+     attr: ('class', 'backF9F8F3 clear PB20E PT10 PT10 overflowH PB5')
+Data     : 
+		  
+		
+Start tag: span
+     attr: ('class', 'txt4 MT5 colorC90 bold MR5')
+Data     : 
+    	01:39 AM.
+End tag  : span
+Data     : 
+		
+Start tag: span
+     attr: ('class', 'txt72  bold color666')
+Start tag: strong
+Data     : ESPACIO.
+End tag  : strong
+End tag  : span
+Data     : 
+        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/vida/tecnologia/120824/nasa-muestra-video-de-aterrizaje-de-curiosity-en-marte')
+Data     : NASA muestra video de aterrizaje de Curiosity en Marte 
+End tag  : a
+Data     : 
+        
+Start tag: br
+Data     : 
+        
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71 PT5')
+     attr: ('href', '/vida/tecnologia/120824/nasa-muestra-video-de-aterrizaje-de-curiosity-en-marte#comments')
+Data     : 
+        
+        Comentarios   (4)
+
+        
+End tag  : a
+End tag  : div
+Data     : 
+        
+		  
+End tag  : div
+Data     : 
+		  
+		  
+Start tag: div
+     attr: ('class', 'backFFF clear PB20E PT10 PT10 overflowH PB5')
+Data     : 
+		  
+		
+Start tag: span
+     attr: ('class', 'txt4 MT5 colorC90 bold MR5')
+Data     : 
+    	10:26 AM.
+End tag  : span
+Data     : 
+		
+Start tag: span
+     attr: ('class', 'txt72  bold color666')
+Start tag: strong
+Data     : ARTES.
+End tag  : strong
+End tag  : span
+Data     : 
+        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/arte-y-entretenimiento/120823/yo-no-retoque-la-obra-a-escondidas')
+Data     : "Yo no retoqué la obra a escondidas"
+End tag  : a
+Data     : 
+        
+Start tag: br
+Data     : 
+        
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71 PT5')
+     attr: ('href', '/arte-y-entretenimiento/120823/yo-no-retoque-la-obra-a-escondidas#comments')
+Data     : 
+        
+        Comentarios   (12)
+
+        
+End tag  : a
+End tag  : div
+Data     : 
+        
+		  
+End tag  : div
+Data     : 
+		  
+		  
+Start tag: div
+     attr: ('class', 'backF9F8F3 clear PB20E PT10 PT10 overflowH PB5')
+Data     : 
+		  
+		
+Start tag: span
+     attr: ('class', 'txt4 MT5 colorC90 bold MR5')
+Data     : 
+    	
+		2 - 8
+		
+End tag  : span
+Data     : 
+		
+Start tag: span
+     attr: ('class', 'txt72  bold color666')
+Start tag: strong
+Data     : ESPECTÁCULO.
+End tag  : strong
+End tag  : span
+Data     : 
+        
+Start tag: a
+     attr: ('class', 'txt27 color30 TDno TAL')
+     attr: ('href', '/arte-y-entretenimiento/miss-venezuela-2012/120824/opening-del-miss-venezuela-ya-se-grabo')
+Data     : "Opening" del Miss Venezuela ya se grabó
+End tag  : a
+Data     : 
+        
+Start tag: br
+Data     : 
+        
+Start tag: div
+     attr: ('class', 'floatL pt5e')
+Start tag: a
+     attr: ('class', 'txt71 bold color0E4D71 PT5')
+     attr: ('href', '/arte-y-entretenimiento/miss-venezuela-2012/120824/opening-del-miss-venezuela-ya-se-grabo#comments')
+Data     : 
+        
+        Comentarios   (2)
+
+        
+End tag  : a
+End tag  : div
+Data     : 
+        
+		  
+End tag  : div
+Data     : 
+		  
+	
+End tag  : div
+Data     : 
+
+
+        
+End tag  : div
+Data     : 
+	
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+				
+End tag  : div
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'clear Box H10 MT0E')
+End tag  : div
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'cont_der_gl')
+Data     : 
+					
+Start tag: div
+     attr: ('id', 'ventana2')
+     attr: ('class', 'clear')
+     attr: ('align', 'center')
+Data     : 
+							
+							
+Start tag: div
+     attr: ('class', 'esp_publicidad PL10')
+Data     : ESPACIO PUBLICITARIO
+End tag  : div
+Data     : 							
+          		
+					
+End tag  : div
+Data     : 
+				
+End tag  : div
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'clear Box H10 MT0E')
+End tag  : div
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'cont_der_gl clear MT10')
+Data     : 
+					
+Start tag: div
+     attr: ('class', 'clear MT10 pod_sigue_hm PB10')
+Data     : 
+    
+Start tag: div
+     attr: ('class', 'txt15 bold TAL PT10 PL10')
+Data     : S
+Data     : guenos desde:
+End tag  : div
+Data     : 
+    
+Start tag: div
+     attr: ('class', 'sprite2 floatL MT10 ML30')
+Data     : 
+        
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/movil.shtml')
+Start tag: span
+     attr: ('class', 'sprite2-Icon_Movil floatL')
+End tag  : span
+End tag  : a
+Data     : 
+    
+End tag  : div
+Data     : 
+    
+Start tag: div
+     attr: ('class', 'sprite2 floatL MT10')
+Data     : 
+        
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/rss.shtml')
+Start tag: span
+     attr: ('class', 'sprite2-rss27x27 floatL')
+End tag  : span
+End tag  : a
+Data     : 
+    
+End tag  : div
+Data     : 
+    
+Start tag: div
+     attr: ('class', 'sprite2 floatL MT10')
+Data     : 
+        
+Start tag: a
+     attr: ('href', 'http://www.facebook.com/eluniversal')
+Start tag: span
+     attr: ('class', 'sprite2-facebook27x27 floatL')
+End tag  : span
+End tag  : a
+Data     : 
+    
+End tag  : div
+Data     : 
+    
+Start tag: div
+     attr: ('class', 'sprite2 floatL MT10')
+Data     : 
+        
+Start tag: a
+     attr: ('href', 'http://twitter.com/ELUniversal')
+Start tag: span
+     attr: ('class', 'sprite2-twitter27x27 floatL')
+End tag  : span
+End tag  : a
+Data     : 
+    
+End tag  : div
+Data     : 
+    
+Start tag: div
+     attr: ('class', 'sprite5 floatL MT10')
+Data     : 
+        
+Start tag: a
+     attr: ('href', u'http://www.google.com/ig/adde?moduleurl=http://www.eluniversal.com/Igoogle/eluniversal.xml&source=imag')
+Start tag: span
+     attr: ('class', 'sprite5-Icon_Google floatL')
+End tag  : span
+End tag  : a
+Data     : 
+    
+End tag  : div
+Data     : 
+    
+Start tag: div
+     attr: ('class', 'sprite5 floatL MT10')
+Data     : 
+        
+Start tag: a
+     attr: ('href', 'http://www.youtube.com/eluniversal')
+Start tag: span
+     attr: ('class', 'sprite5-Icon_Youtube floatL')
+End tag  : span
+End tag  : a
+Data     : 
+    
+End tag  : div
+Data     :     
+
+End tag  : div
+Data     : 
+
+				
+End tag  : div
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'clear Box H10 MT0E')
+End tag  : div
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'cont_der_gl clear MT10')
+Data     : 
+					
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+Start tag: div
+     attr: ('class', 'clear pod_der_gl lomas')
+Data     : 
+
+Start tag: h5
+     attr: ('class', 'txt7 floatL')
+Data     : Lo m
+Data     : s...
+End tag  : h5
+Data     : 
+    
+Start tag: div
+     attr: ('class', 'tabs clear')
+Data     : 
+        
+Start tag: ul
+     attr: ('class', 'H20')
+     attr: ('style', 'background:#E8E8E8')
+Data     : 
+            
+Start tag: li
+     attr: ('class', 'borderNo MT3 ML10')
+Start tag: a
+     attr: ('href', '#tabs4-1')
+Data     : Le
+Data     : do
+End tag  : a
+End tag  : li
+Data     : 
+            
+Start tag: li
+     attr: ('class', 'borderNo MT3 ML10')
+Start tag: a
+     attr: ('href', '#tabs4-2')
+Data     : Comentado
+End tag  : a
+End tag  : li
+Data     : 
+        
+End tag  : ul
+Data     : 
+		
+			
+Start tag: div
+     attr: ('id', 'tabs4-1')
+     attr: ('align', 'left')
+Data     : 
+           		
+Start tag: ol
+     attr: ('class', 'clear MO P0 TAL ML25E MT15')
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/opinion/120824/algo-bueno-esta-pasando-en-venecuba')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', '\xbfAlgo bueno est\xe1 pasando en Venecuba?')
+Data     : 
+							¿Algo bueno está pasando en Venecuba?
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/opinion/120824/las-carrozas-del-presidente')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'Las carrozas del Presidente')
+Data     : 
+							Las carrozas del Presidente
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/nacional-y-politica/120824/las-lluvias-y-el-mal-estado-de-las-vias-aislan-al-oriente-del-pais')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'Las lluvias y el mal estado de las v\xedas a\xedslan al Oriente del pa\xeds')
+Data     : 
+							Las lluvias y el mal estado de las vías aís...
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/opinion/120824/julian-assange-en-ecuador')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'Julian Assange en Ecuador')
+Data     : 
+							Julian Assange en Ecuador
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/opinion/120824/el-perverso-numero-17')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'El perverso n\xfamero 17')
+Data     : 
+							El perverso número 17
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/arte-y-entretenimiento/120824/solamente-queria-mejorar-los-frescos-de-la-iglesia')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'Solamente quer\xeda mejorar los frescos de la iglesia')
+Data     : 
+							"Solamente quería mejorar los frescos de la...
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/nacional-y-politica/120824/removida-grua-telescopica-que-quedo-atrapada-en-el-puente-cupira')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'Removida gr\xfaa telesc\xf3pica que qued\xf3 atrapada en el puente C\xfapira')
+Data     : 
+							Removida grúa telescópica que quedó atrapad...
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/vida/tecnologia/120824/nasa-muestra-video-de-aterrizaje-de-curiosity-en-marte')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'NASA muestra video de aterrizaje de Curiosity en Marte ')
+Data     : 
+							NASA muestra video de aterrizaje de Curiosi...
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/internacional/120824/atacante-muere-en-tiroteo-cerca-del-empire-state-building')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'Atacante muere en tiroteo cerca del Empire State Building ')
+Data     : 
+							Atacante muere en tiroteo cerca del Empire ...
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/opinion/120824/ganado-o-perdido')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', '\xbfGanado o perdido?')
+Data     : 
+							¿Ganado o perdido?
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+            	
+End tag  : ol
+Data     : 
+        	
+End tag  : div
+Data     : 
+			
+		
+			
+Start tag: div
+     attr: ('id', 'tabs4-2')
+     attr: ('align', 'left')
+Data     : 
+           		
+Start tag: ol
+     attr: ('class', 'clear MO P0 TAL ML25E MT15')
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/opinion/120824/algo-bueno-esta-pasando-en-venecuba')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', '\xbfAlgo bueno est\xe1 pasando en Venecuba?')
+Data     : 
+							¿Algo bueno está pasando en Venecuba?
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/nacional-y-politica/120824/las-lluvias-y-el-mal-estado-de-las-vias-aislan-al-oriente-del-pais')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'Las lluvias y el mal estado de las v\xedas a\xedslan al Oriente del pa\xeds')
+Data     : 
+							Las lluvias y el mal estado de las vías aís...
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/opinion/120824/las-carrozas-del-presidente')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'Las carrozas del Presidente')
+Data     : 
+							Las carrozas del Presidente
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/opinion/120824/el-perverso-numero-17')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'El perverso n\xfamero 17')
+Data     : 
+							El perverso número 17
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/nacional-y-politica/120824/removida-grua-telescopica-que-quedo-atrapada-en-el-puente-cupira')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'Removida gr\xfaa telesc\xf3pica que qued\xf3 atrapada en el puente C\xfapira')
+Data     : 
+							Removida grúa telescópica que quedó atrapad...
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/internacional/120824/cancilleres-de-oea-debaten-apoyo-a-ecuador-en-confrontacion-con-londre')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'Cancilleres de OEA debaten apoyo a Ecuador en confrontaci\xf3n con Londres<br />\r\n')
+Data     : 
+							Cancilleres de OEA debaten apoyo a Ecuador ...
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/nacional-y-politica/120824/alertan-sobre-uso-de-justicia-militar-para-encarcelar-a-dirigentes-soc')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'Alertan sobre uso de justicia militar para encarcelar a dirigentes sociales')
+Data     : 
+							Alertan sobre uso de justicia militar para ...
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/nacional-y-politica/120824/chavez-promete-decretar-a-cumana-capital-del-pais')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'Ch\xe1vez promete decretar  a Cuman\xe1 capital del pa\xeds')
+Data     : 
+							Chávez promete decretar  a Cumaná capital d...
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/opinion/120824/el-puente-roto')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'El puente roto')
+Data     : 
+							El puente roto
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+						
+	                	
+Start tag: li
+     attr: ('class', 'colorC90 PB5 BBF0 bold txt1 LH25')
+Data     : 
+	                    	
+Start tag: a
+     attr: ('href', '/opinion/120824/julian-assange-en-ecuador')
+     attr: ('class', 'color000 TDno txt74 color333')
+     attr: ('title', 'Julian Assange en Ecuador')
+Data     : 
+							Julian Assange en Ecuador
+							
+End tag  : a
+Data     : 
+							
+							
+	                	
+End tag  : li
+Data     : 
+					
+            	
+End tag  : ol
+Data     : 
+        	
+End tag  : div
+Data     : 
+			
+		
+    
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+
+
+				
+End tag  : div
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'clear Box H10 MT0E')
+End tag  : div
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'cont_der_gl clear MT10')
+Data     : 
+					
+Start tag: iframe
+     attr: ('src', u'http://www.facebook.com/plugins/recommendations.php?site=http%3A%2F%2Fwww.eluniversal.com&width=380&height=300&header=true&colorscheme=light&font=trebuchet+ms')
+     attr: ('scrolling', 'no')
+     attr: ('frameborder', '0')
+     attr: ('style', 'border:none; overflow:hidden; width:380px; height:300px;')
+     attr: ('allowtransparency', 'true')
+End tag  : iframe
+Data     : 
+				
+End tag  : div
+Data     : 
+			
+Start tag: div
+     attr: ('class', 'clear Box H10 MT0E')
+End tag  : div
+Data     : 
+			
+End tag  : div
+Data     : 
+		
+End tag  : div
+Data     : 	
+	
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+
+
+Start tag: script
+     attr: ('type', 'text/javascript')
+Data     : 
+	var oldLoad = window.onload;
+	window.onload = function() {
+		if(oldLoad!=undefined)
+			oldLoad();
+	 countVisit('7169819'); 	 		
+	}
+
+End tag  : script
+Data     : 
+
+    
+Start tag: div
+     attr: ('id', 'cont_fot_gl')
+     attr: ('class', 'clear')
+Data     : 
+    	
+
+
+Start tag: div
+     attr: ('class', 'floatL MT20')
+Data     : 
+	
+Start tag: img
+     attr: ('alt', 'fotter')
+     attr: ('src', 'http://static.eluniversal.com/images/eu4/advertising/logos_fotter.gif')
+     attr: ('width', '356')
+     attr: ('height', '22')
+     attr: ('border', '0')
+     attr: ('usemap', '#footer1')
+End tag  : img
+Data     : 
+     
+Start tag: map
+     attr: ('name', 'footer1')
+Data     : 
+        
+Start tag: area
+     attr: ('shape', 'rect')
+     attr: ('coords', '0, 0, 238, 23')
+     attr: ('href', u'http://clasificados.eluniversal.com/?utm_source=eluniversal.com&utm_medium=Footer&utm_campaign=Footer')
+     attr: ('alt', 'clasificados.eluniversal.com')
+End tag  : area
+Data     : 
+        
+Start tag: area
+     attr: ('shape', 'rect')
+     attr: ('coords', '264, 0, 353, 23')
+     attr: ('href', 'http://www.estampas.com')
+     attr: ('alt', 'Estampas')
+End tag  : area
+Data     : 
+     
+End tag  : map
+Data     : 
+
+End tag  : div
+Data     : 
+
+Start tag: div
+     attr: ('class', 'pod_foot_gl clear')
+Data     : 
+    
+Start tag: div
+     attr: ('class', 'floatL')
+Data     : 	
+        
+Start tag: div
+     attr: ('class', 'txt15 bold TAL PL10 PT10')
+Data     : Alianzas
+End tag  : div
+Data     : 
+        
+Start tag: div
+     attr: ('class', 'floatL ML20 MT10 BR999 W224')
+Data     : 
+        	
+Start tag: img
+     attr: ('alt', 'fotter')
+     attr: ('src', 'http://static.eluniversal.com/images/eu4/advertising/logos_fotter2.gif')
+     attr: ('width', '182')
+     attr: ('height', '54')
+     attr: ('usemap', '#footer2')
+     attr: ('border', '0')
+End tag  : img
+Data     : 
+            
+Start tag: map
+     attr: ('name', 'footer2')
+Data     : 
+                
+Start tag: area
+     attr: ('shape', 'rect')
+     attr: ('coords', '0, 0, 93, 49')
+     attr: ('href', '#')
+     attr: ('alt', 'clasificados.eluniversal.com')
+End tag  : area
+Data     : 
+                
+Start tag: area
+     attr: ('shape', 'rect')
+     attr: ('coords', '115, 0, 170, 49')
+     attr: ('href', '#')
+     attr: ('alt', 'Estampas')
+End tag  : area
+Data     : 
+            
+End tag  : map
+Data     : 
+        
+End tag  : div
+Data     : 
+      
+    
+End tag  : div
+Data     : 
+    
+Start tag: div
+     attr: ('class', 'floatL ML20 MT20 TAL')
+Data     : 
+        
+Start tag: img
+     attr: ('src', 'http://static.eluniversal.com/images/eu4/back/logo-footer.gif')
+     attr: ('width', '140')
+     attr: ('height', '15')
+     attr: ('alt', 'El Universal')
+End tag  : img
+Data     : 
+        
+Start tag: p
+     attr: ('class', 'txt1')
+Data     : 
+            
+Start tag: a
+     attr: ('href', 'http://anunciantes.eluniversal.com/page/como-enviar-el-arte-final')
+     attr: ('class', 'color91896F bold TDno')
+Data     : Cómo anunciar
+End tag  : a
+Data     :   |  
+            
+Start tag: a
+     attr: ('href', 'http://suscripciones.eluniversal.com/')
+     attr: ('class', 'color91896F bold TDno')
+Data     :  Suscripciones
+End tag  : a
+Data     :   |  
+            
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/contactenos.shtml')
+     attr: ('class', 'color91896F bold TDno')
+Data     : Contáctenos
+End tag  : a
+Data     :   |  
+            
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/politicaPrivacidad.shtml')
+     attr: ('class', 'color91896F bold TDno')
+Data     : Política de privacidad
+End tag  : a
+Data     : 
+            
+Start tag: br
+Data     : 
+            
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/terminosLegales.shtml')
+     attr: ('class', 'color91896F bold TDno')
+Data     : Términos legales
+End tag  : a
+Data     :   |  
+            
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/condicionesUso.shtml')
+     attr: ('class', 'color91896F bold TDno')
+Data     : Condiciones de uso
+End tag  : a
+Data     :   |  
+            
+Start tag: a
+     attr: ('href', 'http://www.eluniversal.com/mapadelsitio.shtml')
+     attr: ('class', 'color91896F bold TDno')
+Data     : Mapa del Sitio
+End tag  : a
+Data     :   |  
+            
+Start tag: a
+     attr: ('href', 'javascript://')
+     attr: ('name', 'popupAyuda')
+     attr: ('rel', '/tiles/eu3/ayuda2.html')
+     attr: ('class', 'color91896F bold TDno')
+Data     : Ayuda
+End tag  : a
+Data     : 
+            
+Start tag: br
+Data     : 
+            El Universal - Todos los derechos reservados 2012
+        
+End tag  : p
+Data     : 
+    
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+
+Start tag: div
+     attr: ('id', 'cont_dialog2')
+     attr: ('style', 'display: none')
+End tag  : div
+Data     : 
+	
+End tag  : div
+Data     : 
+	
+Start tag: script
+     attr: ('type', 'text/javascript')
+Data     : 
+	var _siteRoot='index.shtml',_root='index.shtml';
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-344727-1']);
+    _gaq.push(['_setDomainName', '.eluniversal.com']);
+    _gaq.push(['_setAllowHash', false]);
+	_gaq.push(['_setCustomVar',1,'tipo-articulo','AVA',3]);
+		_gaq.push(['_setCustomVar',2,'localizador','INICIATIVA CIUDADANA',3]);
+		_gaq.push(['_trackPageview']);
+	_gaq.push(['_trackPageLoadTime']);
+    (function() {
+	   var ga = document.createElement('script');
+	   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	   ga.setAttribute('async', 'true');
+	   document.documentElement.firstChild.appendChild(ga);
+	})();
+	
+End tag  : script
+Data     : 
+	
+	
+
+Comment  : LLAMADO A BANNER QUE SE GENERA AL HACER CLICK A LA VENTANA COMUNICACIONAL
+Data     : 
+
+Start tag: div
+     attr: ('id', 'showPubl')
+     attr: ('style', 'position:absolute;z-index:4;')
+Data     : 
+
+Comment  :  <script type="text/javascript">
+function OasDominio(){
+    dominio=new Array("","nacional-y-politica/","caracas/sucesos/","economia/","deportes/","caracas/","internacional/","arte-y-entretenimiento/","vida/","english/","guarenas-guatire/");
+    pages=new Array("home","pol","suegc","eco","dep","ccs","int","til","ten","eng","prueba/pruebacreativos");
+    var URL = window.location.href;
+    for(var i=0;i<dominio.length;i++){
+        text="http://www.eluniversal.com/"+(dominio[i]!=null?dominio[i]:"");
+        if(URL.indexOf(text)>=0 && text.length==URL.length){
+            OasDominio="/"+pages[i]+"/";
+          return OasDominio;
+        }
+    }
+}
+
+function ventaPromocional(l,n){
+	promo=""; fondo="";	ventana="ventanaPremium"+n;
+	switch(n){
+	case 1:	promo="promoext@x32"; fondo="fondo@x30"; break;
+	case 2:	promo="promoext@x29"; fondo="fondo@x28"; break;
+	case 3:	promo="promoext@x27"; fondo="fondo@x26"; break;
+	case 4:	promo="promoext@x25"; fondo="fondo@x24"; break;
+	}
+	if(document.getElementById("actionBut")!=null
+	        && document.getElementById("actionBut").innerHTML.indexOf("empty.gif")==-1
+	        && document.getElementById("actionBut").innerHTML.indexOf(ventana)>=0){
+			     document.write("<script src='http://204.228.236.10/RealMedia/ads/adstream_jx.ads/www.eluniversal.com"+OasDominio+(l==1?promo:fondo)+"'><\/script>");
+		}
+}
+
+var OasDominio=OasDominio();
+ventaPromocional(1,1);ventaPromocional(1,2);ventaPromocional(1,3);ventaPromocional(1,4);
+</script>	
+Data     : 			
+
+End tag  : div
+Data     : 
+
+Comment  : FIN CONTENIDO HTML PAGINA
+Data     : 
+
+End tag  : div
+Data     : 
+
+End tag  : div
+Comment  :  PUBLICIDAD BLOQUE PUBLICITARIO - FALTA POR SABER DE DONDE VENDRÁ EL PROMOCIONAL 
+Data     : 
+
+Start tag: div
+     attr: ('class', 'InnerRight')
+     attr: ('id', 'cont_bloque')
+     attr: ('style', 'cursor:pointer;')
+     attr: ('name', '0')
+Data     : 
+	
+Start tag: img
+     attr: ('src', 'http://images.eluniversal.com/anunciantes/espacios_publicitarios/cerrar.jpg')
+     attr: ('style', 'cursor: pointer;position:relative;z-index:9000')
+     attr: ('id', 'cerrar')
+     attr: ('onclick', 'offBloque()')
+     attr: ('alt', 'cerrar')
+Data     : 
+    
+Start tag: div
+     attr: ('id', 'contentBann')
+     attr: ('style', 'margin-top:-25px!important;')
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+
+
+
+Comment  : FIN CONTENIDO HTML PAGINA
+Data     : 
+
+Start tag: div
+     attr: ('id', 'closeButt')
+     attr: ('style', 'cursor: pointer; height: 20px; position: absolute; width: 120px; z-index: 13; display: none; top: 69px; right: 142px;')
+Data     : 
+
+Start tag: img
+     attr: ('alt', 'cerrar')
+     attr: ('src', 'http://images.eluniversal.com/anunciantes/espacios_publicitarios/cerrar.jpg')
+Data     : 
+
+End tag  : div
+Data     : 
+
+Start tag: div
+     attr: ('id', 'backDiv')
+     attr: ('class', 'Dnone')
+Data     : 
+
+Start tag: div
+     attr: ('id', 'marcagua')
+     attr: ('class', 'marcagua')
+Data     : 
+
+Comment  : <script type="text/javascript">ventaPromocional(2,1);ventaPromocional(2,2);ventaPromocional(2,3);ventaPromocional(2,4);</script>
+Data     : 
+
+End tag  : div
+Data     : 
+
+Start tag: div
+     attr: ('class', 'H90')
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+
+
+Start tag: script
+     attr: ('type', 'text/javascript')
+Data     : 
+	LISTA_JS_CSS.addJs("http://static.eluniversal.com/js/eu4/",["funciones2_prod"]);
+	
+End tag  : script
+Data     : 
+	
+Comment  :   script src="http://static.eluniversal.com/js/eu4/funciones2_prod.js" type="text/javascript"></script 
+Data     : 
+
+Start tag: script
+Data     : validarRichmedia()
+End tag  : script
+Data     : 
+
+End tag  : body
+Data     : 
+
+End tag  : html
+None
